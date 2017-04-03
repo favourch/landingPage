@@ -226,12 +226,11 @@
                             <li><a href="http://bigperl.com/careers/">Careers</a></li>
                             <li><a href="http://bigperl.com/careers/">Contact</a></li>
                             <li><a href="#">
-                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal">
+                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
                                   Get A Quote
                                 </button>
-
                                 <!-- Modal -->
-                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="margin-top: 0em;width: 100%;">
+                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="margin-top: 0em;width: 100%;min-height: 100%;background-color: transparent;">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -271,8 +270,9 @@
                                                     <label for="message">Message</label>
                                                   </div>
                                                   <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">Send Message</button>
+                                                  </form>
                                                   </div>
-                                        </form>
+                                        
                                       </div>
                                     </div>
                                   </div>
@@ -319,7 +319,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 5; color: #373a3d; white-space: nowrap;">Optimize Your Site
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px; white-space: nowrap;">SASS Based <br> Solutions
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -337,7 +337,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 6; color: #666; white-space: nowrap;">materialize is an interactive agency. Which develops websites <br> and premium mobile applications.
+                    style="z-index: 6; color: #fff; background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px; white-space: nowrap;">IOS | ANDROID | WINDOWS
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -357,8 +357,8 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 7; white-space: nowrap;">
-                    <a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
+                    style="z-index: 7;background-color: rgba(0,0,0,0.3); border-radius: 5px;padding:5px; white-space: nowrap;">
+                    <h3 style="color: #fff;"><b>Software Development and onsite consulting</b></h3>
                 </div>
 
                 <!-- LAYER NR. 4 -->
@@ -431,10 +431,10 @@
 
 
             <!-- slide 2 start --> 
-            <li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="assets/img/seo/slider/slider-bg-1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="materialize Material" data-description="">
+            <li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="assets/img/seo/slider/slider-bg-2.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="materialize Material" data-description="">
 
                 <!-- MAIN IMAGE -->
-                <img src="assets/img/seo/slider/slider-bg-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <img src="assets/img/seo/slider/slider-bg-2.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 
                 <!-- LAYER NR. 1 -->
@@ -455,7 +455,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 5; color: #373a3d; white-space: nowrap;">Grow Your Business
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px; white-space: nowrap;">Responsive web <br> development
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -473,7 +473,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 6; color: #666; white-space: nowrap;">materialize is an interactive agency. Which develops websites <br> and premium mobile applications.
+                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.3);">Parallax | E-Commerce | Web 2.0
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -639,21 +639,21 @@
             <div class="container">
               <div class="row">
                 <div class="col-md-7 light-grey-text">
-                	<h2 class="font-40 mb-30 white-text">We Offer a Full Range of Digital Marketing Services!</h2>
-                	<p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. </p>
+                    <h2 class="font-40 mb-30 white-text">We Offer a Full Range of Digital Marketing Services!</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. </p>
 
-                	<ul class="list-icon mb-30">
-                		<li><i class="material-icons">&#xE876;</i> We deliver Top Rankings.</li>
-                		<li><i class="material-icons">&#xE876;</i> High customer retention rate.</li>
-                		<li><i class="material-icons">&#xE876;</i> We always return e-mails and calls within one business day.</li>
-                	</ul>
+                    <ul class="list-icon mb-30">
+                        <li><i class="material-icons">&#xE876;</i> We deliver Top Rankings.</li>
+                        <li><i class="material-icons">&#xE876;</i> High customer retention rate.</li>
+                        <li><i class="material-icons">&#xE876;</i> We always return e-mails and calls within one business day.</li>
+                    </ul>
 
-                	<a href="#." class="btn btn-lg text-capitalize waves-effect waves-light">Contact Us</a>
+                    <a href="#." class="btn btn-lg text-capitalize waves-effect waves-light">Contact Us</a>
 
                 </div><!-- /.col-md-7 -->
 
                 <div class="col-md-5 mt-sm-30">
-					         <img src="assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
+                             <img src="assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
                 </div><!-- /.col-md-5 -->
               </div><!-- /.row -->
             </div><!-- /.container -->
@@ -1040,110 +1040,110 @@
               </div>
 
               <div class="row">
-              	<div class="col-md-4">
-        					<div class="pricing-table">
-        						<div class="table-contents text-center">
-        							<div class="table-header brand-hover">
-        								<div class="package-name">
-        									<span>Basic</span>
-        								</div> 
+                <div class="col-md-4">
+                            <div class="pricing-table">
+                                <div class="table-contents text-center">
+                                    <div class="table-header brand-hover">
+                                        <div class="package-name">
+                                            <span>Basic</span>
+                                        </div> 
 
-        								<div class="package-price">
-        									<span class="currency-symbol">$</span>
-        									<span class="price">59</span>
-        									<span class="currency-code">/Day</span>
-        								</div>
-        							</div> <!-- /.table-header -->
+                                        <div class="package-price">
+                                            <span class="currency-symbol">$</span>
+                                            <span class="price">59</span>
+                                            <span class="currency-code">/Day</span>
+                                        </div>
+                                    </div> <!-- /.table-header -->
 
-        							<div class="table-info">
-        								<ul>
-        									<li>Keyword</li>
-        									<li>Time Tracking</li>
-        									<li>Man Hour</li>
-        									<li><del>Workshop</del></li>
-        									<li><del>Certificate</del></li>
-        								</ul>                                
-        							</div><!-- /.table-info -->
+                                    <div class="table-info">
+                                        <ul>
+                                            <li>Keyword</li>
+                                            <li>Time Tracking</li>
+                                            <li>Man Hour</li>
+                                            <li><del>Workshop</del></li>
+                                            <li><del>Certificate</del></li>
+                                        </ul>                                
+                                    </div><!-- /.table-info -->
 
-        							<div class="table-footer">
-        								<div class="purchase-button">
-        									<a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
-        								</div>   
-        							</div> <!-- /.table-footer -->
-        						</div> <!-- /.table-contents -->
-        					</div><!-- /.pricing-table -->
-              	</div><!-- /.col-md-4 -->
+                                    <div class="table-footer">
+                                        <div class="purchase-button">
+                                            <a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
+                                        </div>   
+                                    </div> <!-- /.table-footer -->
+                                </div> <!-- /.table-contents -->
+                            </div><!-- /.pricing-table -->
+                </div><!-- /.col-md-4 -->
 
-              	<div class="col-md-4">
-        					<div class="pricing-table">
-        						<div class="table-contents text-center">
-        							<div class="table-header brand-hover">
-        								<div class="package-name">
-        									<span>Standard</span>
-        								</div> 
+                <div class="col-md-4">
+                            <div class="pricing-table">
+                                <div class="table-contents text-center">
+                                    <div class="table-header brand-hover">
+                                        <div class="package-name">
+                                            <span>Standard</span>
+                                        </div> 
 
-        								<div class="package-price">
-        									<span class="currency-symbol">$</span>
-        									<span class="price">79</span>
-        									<span class="currency-code">/Day</span>
-        								</div>
-        							</div> <!-- /.table-header -->
+                                        <div class="package-price">
+                                            <span class="currency-symbol">$</span>
+                                            <span class="price">79</span>
+                                            <span class="currency-code">/Day</span>
+                                        </div>
+                                    </div> <!-- /.table-header -->
 
-        							<div class="table-info">
-        								<ul>
-        									<li>Front Seats</li>
-        									<li>Free Snacks</li>
-        									<li>Printed T-Shirt</li>
-        									<li>Workshop</li>
-        									<li><del>Certificate</del></li>
-        								</ul>                                
-        							</div><!-- /.table-info -->
+                                    <div class="table-info">
+                                        <ul>
+                                            <li>Front Seats</li>
+                                            <li>Free Snacks</li>
+                                            <li>Printed T-Shirt</li>
+                                            <li>Workshop</li>
+                                            <li><del>Certificate</del></li>
+                                        </ul>                                
+                                    </div><!-- /.table-info -->
 
-        							<div class="table-footer">
-        								<div class="purchase-button">
-        									<a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
-        								</div>   
-        							</div> <!-- /.table-footer -->
-        						</div> <!-- /.table-contents -->
-        					</div><!-- /.pricing-table -->
-              	</div><!-- /.col-md-4 -->
+                                    <div class="table-footer">
+                                        <div class="purchase-button">
+                                            <a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
+                                        </div>   
+                                    </div> <!-- /.table-footer -->
+                                </div> <!-- /.table-contents -->
+                            </div><!-- /.pricing-table -->
+                </div><!-- /.col-md-4 -->
 
-              	<div class="col-md-4">
-        					<div class="pricing-table">
-        						<div class="table-contents text-center">
-        							<div class="table-header brand-hover">
-        								<div class="package-name">
-        									<span>Premium</span>
-        								</div> 
+                <div class="col-md-4">
+                            <div class="pricing-table">
+                                <div class="table-contents text-center">
+                                    <div class="table-header brand-hover">
+                                        <div class="package-name">
+                                            <span>Premium</span>
+                                        </div> 
 
-        								<div class="package-price">
-        									<span class="currency-symbol">$</span>
-        									<span class="price">99</span>
-        									<span class="currency-code">/Day</span>
-        								</div>
-        							</div> <!-- /.table-header -->
+                                        <div class="package-price">
+                                            <span class="currency-symbol">$</span>
+                                            <span class="price">99</span>
+                                            <span class="currency-code">/Day</span>
+                                        </div>
+                                    </div> <!-- /.table-header -->
 
-        							<div class="table-info">
-        								<ul>
-        									<li>Front Seats</li>
-        									<li>Free Snacks</li>
-        									<li>Printed T-Shirt</li>
-        									<li>Workshop</li>
-        									<li>Certificate</li>
-        								</ul>                                
-        							</div><!-- /.table-info -->
+                                    <div class="table-info">
+                                        <ul>
+                                            <li>Front Seats</li>
+                                            <li>Free Snacks</li>
+                                            <li>Printed T-Shirt</li>
+                                            <li>Workshop</li>
+                                            <li>Certificate</li>
+                                        </ul>                                
+                                    </div><!-- /.table-info -->
 
-        							<div class="table-footer">
-        								<div class="purchase-button">
-        									<a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
-        								</div>   
-        							</div> <!-- /.table-footer -->
-        						</div> <!-- /.table-contents -->
-        					</div><!-- /.pricing-table -->
-              	</div><!-- /.col-md-4 -->
+                                    <div class="table-footer">
+                                        <div class="purchase-button">
+                                            <a class="btn btn-lg text-capitalize waves-effect waves-light" href="#">Buy Now</a>
+                                        </div>   
+                                    </div> <!-- /.table-footer -->
+                                </div> <!-- /.table-contents -->
+                            </div><!-- /.pricing-table -->
+                </div><!-- /.col-md-4 -->
               </div><!-- /.row -->
             </div><!-- /.container -->
-		    </section>
+            </section>
 
 
         <section class="section-padding featured-list-news">
