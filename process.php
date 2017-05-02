@@ -8,7 +8,7 @@
 <body>
 <?php
 
-    $to = "info@grabwebs.com"; 
+    $to = "rajlaxmi@grabwebs.com"; 
     $from = $_REQUEST['email']; 
     $name = $_REQUEST['name']; 
     $headers = "From: $from"; 
