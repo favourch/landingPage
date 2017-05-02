@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<meta http-equiv="refresh" content="5; url=http://premium.way2gps.com/landing_page/" />
+<meta http-equiv="refresh" content="3; url=http://premium.way2gps.com/landing_page/mobile-application-development" />
 <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
 <head>
     <title>Bigperl Private Solutions Ltd</title>
@@ -8,7 +8,7 @@
 <body>
 <?php
 
-    $to = "hemanth@karnatakashilpakalaacademy.org"; 
+    $to = "info@grabwebs.com"; 
     $from = $_REQUEST['email']; 
     $name = $_REQUEST['name']; 
     $headers = "From: $from"; 
@@ -27,7 +27,7 @@
 ?>
 <div class="container">
     <div class="well">
-        <h1>Thank You for sharing your details with us, We'll update you soon</h1>
+        <p>Thank You for sharing your details with us, We'll update you soon</p>
     </div>
 </div>
 </body>
