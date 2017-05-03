@@ -136,10 +136,9 @@ Header
 
 
 .tt-nav .logo-brand img {
-    height: 60px;
+    height: 49px;
     float: left;
-	margin-top: -10px;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 .tt-nav.sticky .logo-brand img, 

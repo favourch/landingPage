@@ -378,7 +378,7 @@ thead {
 }
 
 .section-padding {
-    padding: 110px 0;
+    padding: 10px 0;
 }
 
 
@@ -428,7 +428,7 @@ thead {
     margin-bottom: 50px !important;
 }
 .mb-80 {
-    margin-bottom: 80px !important;
+    margin-bottom: 0px !important;
 }
 .mb-100 {
     margin-bottom: 100px !important;

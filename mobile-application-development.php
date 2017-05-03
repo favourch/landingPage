@@ -272,7 +272,6 @@
                                                   <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">Send Message</button>
                                                   </form>
                                                   </div>
-                                        
                                       </div>
                                     </div>
                                   </div>
@@ -513,6 +512,89 @@
                 </div>
             </li>
             <!-- slide 2 end -->
+            <!-- slide 3 start --> 
+            <li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="assets/img/seo/slider/slider-bg-2.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="materialize Material" data-description="">
+
+                <!-- MAIN IMAGE -->
+                <img src="assets/img/seo/slider/slider-bg-3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption NotGeneric-Title tp-resizeme"
+                    data-x="['left','left','center','center']" data-hoffset="['20','20','0','0']" 
+                    data-y="['center','center','top','top']" data-voffset="['-100','-100','50','50']"
+                    data-fontsize="['70','60','50','45']"
+                    data-lineheight="['70','60','40','40']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                    data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+                    data-start="800" 
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px; white-space: nowrap;">Responsive web <br> development
+                </div>
+
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption tp-resizeme rev-subheading"
+                    data-x="['left','left','center','center']" data-hoffset="['20','20','0','0']" 
+                    data-y="['center','center','top','top']" data-voffset="['0','0','140','140']"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                    data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+                    data-start="1000" 
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.3);">Parallax | E-Commerce | Web 2.0
+                </div>
+
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption tp-resizeme"
+                    data-x="['left','left','center','center']" data-hoffset="['20','20','0','0']" 
+                    data-y="['middle','middle','top','top']" data-voffset="['100','100','220','220']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-style_hover="cursor:default;"
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;" 
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                    data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+                    data-start="1200" 
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    style="z-index: 7; white-space: nowrap;">
+                    <a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
+                </div>
+
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption tp-resizeme"
+                    data-basealign="slide"
+                    data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']" 
+                    data-y="['bottom','bottom','bottom','bottom']" data-voffset="['0','0','0','0']" 
+                    data-transform_idle="o:1;"
+                    data-transform_in="y:30px;opacity:0;s:600;e:Power2.easeOut;" 
+                    data-transform_out="opacity:0;s:1000;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+                    data-start="1500"
+                    style="z-index: 8;">
+                    <div>
+                        <img src="assets/img/seo/slider/graph.png" alt="">
+                    </div>
+                </div>
+            </li>
+            <!-- slide 3 end -->
 
          
           </ul>             
@@ -570,7 +652,7 @@
                           <img class="img-responsive" src="assets/img/seo/service-4.jpg" alt="">
                       </div>
                       <div class="desc">
-                          <h2>Zen Cart Development</h2>
+                          <h2>Xamarin Development</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                           <div class="bg-overlay"></div>
                           <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
@@ -1404,7 +1486,7 @@
                jQuery(".materialize-slider").revolution({
                     sliderType:"standard",
                     sliderLayout:"fullwidth",
-                    delay:9000,
+                    delay:5000,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
@@ -1439,7 +1521,7 @@
                     },
                     responsiveLevels:[1240,1024,778,480],
                     gridwidth:[1140,1024,778,480],
-                    gridheight:[700,600,800,800],
+                    gridheight:[400,300,500,500],
                     disableProgressBar:"on",
                     parallax: {
                         type:"mouse",
