@@ -92,7 +92,7 @@
                     <div id="materialize-menu" class="menuzord">
 
                         <!--logo start-->
-                        <a href="index.html" class="logo-brand">
+                        <a href="mobile-application-development" class="logo-brand">
                             <img src="assets/img/seo/logo.png" alt="" >
                         </a>
                         <!--logo end-->
