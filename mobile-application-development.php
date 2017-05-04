@@ -1350,7 +1350,7 @@
 
                 }
               });
-              
+              window.location.href = "mobile-application-development";
             });
           
         </script>
