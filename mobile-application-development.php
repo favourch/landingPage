@@ -68,7 +68,7 @@
               <div class="col-md-6 text-right">
                 <ul class="topbar-cta no-margin">
                   <li class="mr-20">
-                    <a><i class="material-icons mr-10">&#xE0B9;</i>rajlaxmi@grabwebs.com</a>
+                    <a><i class="material-icons mr-10">&#xE0B9;</i>info@grabwebs.com</a>
                   </li>
                   <li>
                     <a><i class="material-icons mr-10">&#xE0CD;</i> +91 1800-200-5215</a>
