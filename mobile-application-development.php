@@ -616,7 +616,7 @@
                           <h2>IOS Development</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                           <div class="bg-overlay"></div>
-                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                          <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                       </div>
                   </div><!-- /.featured-item -->
 
@@ -629,7 +629,7 @@
                           <h2>Android Development</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                           <div class="bg-overlay"></div>
-                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                          <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                       </div>
                   </div><!-- /.featured-item -->
 
@@ -642,7 +642,7 @@
                           <h2>Hybrid Development</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                           <div class="bg-overlay"></div>
-                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                          <p><a class="learn-more" href="http://bigperl.com/hybrid-mobile-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                       </div>
                   </div><!-- /.featured-item -->
 
@@ -655,7 +655,7 @@
                           <h2>Xamarin Development</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                           <div class="bg-overlay"></div>
-                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                          <p><a class="learn-more" href="http://bigperl.com/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                       </div>
                   </div><!-- /.featured-item -->
 
