@@ -41,8 +41,6 @@
         <link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
         <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
         <link rel="stylesheet" type="text/css" href="style.css">
-        <script type="text/javascript" src="validate.js"></script>
-        <script type="text/javascript" src="function.answercheck.js"></script>
         
 
     </head>
@@ -230,7 +228,7 @@
                                   Get A Quote
                                 </button>
                                 <!-- Modal -->
-                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="margin-top: 0em;width: 100%;min-height: 100%;background-color: transparent;">
+                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="width: 100%;min-height: 100%;background-color: transparent;">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -727,9 +725,61 @@
                 		<li><i class="material-icons">&#xE876;</i> We deliver Top Rankings.</li>
                 		<li><i class="material-icons">&#xE876;</i> High customer retention rate.</li>
                 		<li><i class="material-icons">&#xE876;</i> We always return e-mails and calls within one business day.</li>
-                	</ul>
+                        <li>
+                            <a href="#">
+                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
+                                  Get A Quote
+                                </button>
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="width: 100%;min-height: 100%;background-color: transparent;">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                      </div>
+                                      <div class="modal-body">
+                                            <div class="row">
+                                            <div class="col-md-12">
+                                                <form method="post" id="contactForm" name="contact-form">
+                                                  <div class="row">
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <input type="text" name="name" class="validate" id="name">
+                                                        <label for="name">Name</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <label class="sr-only" for="email">Email</label>
+                                                        <input id="email" type="email" name="email" class="validate" >
+                                                        <label for="email" data-error="wrong" data-success="right">Email</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                  </div><!-- /.row -->
 
-                	<a href="#." class="btn btn-lg text-capitalize waves-effect waves-light">Contact Us</a>
+                                                  <div class="row">
+                                                    <div class="col-md-12">
+                                                      <div class="input-field">
+                                                        <input id="subject" type="tel" name="subject" class="validate" >
+                                                        <label for="subject">Subject</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    </div>
+                                                  <div class="input-field">
+                                                    <textarea name="message" id="message" class="materialize-textarea" ></textarea>
+                                                    <label for="message">Message</label>
+                                                  </div>
+                                                  <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">Send Message</button>
+                                                  </form>
+                                                  </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                </a>
+                        </li>
+                	</ul>
 
                 </div><!-- /.col-md-7 -->
 
@@ -830,13 +880,177 @@
                       <p>Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
                   </div>
                   <div class="promo-btn">
-                      <a href="#." class="btn btn-lg text-capitalize waves-effect waves-light">Get it now</a>
+                      <a href="#">
+                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
+                                  Get A Quote
+                                </button>
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="width: 100%;min-height: 100%;background-color: transparent;">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                      </div>
+                                      <div class="modal-body">
+                                            <div class="row">
+                                            <div class="col-md-12">
+                                                <form method="post" id="contactForm" name="contact-form">
+                                                  <div class="row">
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <input type="text" name="name" class="validate" id="name">
+                                                        <label for="name">Name</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <label class="sr-only" for="email">Email</label>
+                                                        <input id="email" type="email" name="email" class="validate" >
+                                                        <label for="email" data-error="wrong" data-success="right">Email</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                  </div><!-- /.row -->
+
+                                                  <div class="row">
+                                                    <div class="col-md-12">
+                                                      <div class="input-field">
+                                                        <input id="subject" type="tel" name="subject" class="validate" >
+                                                        <label for="subject">Subject</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    </div>
+                                                  <div class="input-field">
+                                                    <textarea name="message" id="message" class="materialize-textarea" ></textarea>
+                                                    <label for="message">Message</label>
+                                                  </div>
+                                                  <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">Send Message</button>
+                                                  </form>
+                                                  </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                </a>
                   </div>
               </div>
 
             </div><!-- /.container -->
         </section>
 
+
+        <section class="section-padding">
+            <div class="container">
+              <div class="text-center mb-80">
+                  <h2 class="section-title text-uppercase">Mostly Used Technologies</h2>
+              </div>
+              <div class="seo-featured-carousel brand-dot">
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-1.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>IOS Development</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-2.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Android Development</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-3.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Hybrid Development</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="http://bigperl.com/hybrid-mobile-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-4.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Xamarin Development</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="http://bigperl.com/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-5.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Big Data</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-6.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Mobile Marketing</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-7.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Data Organize</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+
+
+                  <div class="featured-item seo-service">
+                      <div class="icon">
+                          <img class="img-responsive" src="assets/img/seo/service-8.jpg" alt="">
+                      </div>
+                      <div class="desc">
+                          <h2>Pay Per Click</h2>
+                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                          <div class="bg-overlay"></div>
+                          <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                      </div>
+                  </div><!-- /.featured-item -->
+              </div><!-- /.seo-featured -->
+
+            </div><!-- /.container -->
+        </section>
 
         <section class="section-padding gray-bg">
           <div class="container">
@@ -1355,15 +1569,6 @@
           
         </script>
         <!-- RS5.0 Init  -->
-        <script type="text/javascript">
-            var popupDiv = document.getElementById('popup_bg');
-            function openPopupMenu() {
-                popupDiv.style.display("none");
-            }
-            function closePopupMenu("block") {
-                popupDiv.style.display("block");
-            }
-        </script>
         <script type="text/javascript">
             jQuery(document).ready(function() {
                jQuery(".materialize-slider").revolution({
