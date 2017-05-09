@@ -877,21 +877,21 @@
               </div><!-- /.row -->
 
               <div class="promo-box gray-bg border-box mt-100">
-                  <div class="promo-info">
-                      <div class="col-md-9">
-                      <form method="post" id="contactForm1" name="contact-form">
-                                                      <div class="input-field">
-                                                        <label class="sr-only" for="email">Email</label>
-                                                        <input id="email" type="email" name="email" class="validate" >
-                                                        <label for="email" data-error="wrong" data-success="right">Email</label>
-                                                      </div>
-                                                    </div>
-                        <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-0">Send Message</button>
-                      </form>
+                  <div class="post-info">
+                  <form method="post" id="contactForm1" name="contact-form">
+                    <div class="col-md-4">
+                            <div class="input-field">
+                                <label class="sr-only" for="email">Email</label>
+                                <input id="email" type="email" name="email" class="validate" >
+                                <label for="email" data-error="wrong" data-success="right">Email</label>
+                            </div>
+                    </div>
+                    <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-0">Subscribe</button>
+                    <div id="floating"><h2 class="text-extrabold text-uppercase font-25">we believe we could, so we do</h2></div>
+                  </form>
                   </div>
-              </div>
-
-            </div><!-- /.container -->
+                  </div>
+              </div><!-- /.container -->
         </section>
 
         <section class="section-padding">
