@@ -878,42 +878,16 @@
 
               <div class="promo-box gray-bg border-box mt-100">
                   <div class="promo-info">
-                      <h2 class="text-extrabold text-uppercase font-25">Get awesome marketing services</h2>
-                      <p>Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
-                  </div>
-                  <div class="promo-btn">
-                      <a href="#">
-                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal1" >
-                                  Subscirbe
-                                </button>
-                                <!-- Modal -->
-                                <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="width: 100%;min-height: 100%;background-color: transparent;">
-                                  <div class="modal-dialog" role="document">
-                                    <div class="modal-content">
-                                      <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                        <h4 class="modal-title" id="myModalLabel">Subscribe</h4>
-                                      </div>
-                                      <div class="modal-body">
-                                            <div class="row">
-                                            <div class="col-md-12">
-                                                <form method="post" id="contactForm1" name="contact-form">
-                                                    <div class="col-md-12">
+                      <div class="col-md-9">
+                      <form method="post" id="contactForm1" name="contact-form">
                                                       <div class="input-field">
                                                         <label class="sr-only" for="email">Email</label>
                                                         <input id="email" type="email" name="email" class="validate" >
                                                         <label for="email" data-error="wrong" data-success="right">Email</label>
                                                       </div>
                                                     </div>
-                                                    <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">Send Message</button>
-                                                  </div>
-                                                  </form>
-                                                  </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                </a>
+                        <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-0">Send Message</button>
+                      </form>
                   </div>
               </div>
 
