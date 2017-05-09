@@ -2,7 +2,7 @@
 Template Name: materialize
 Author: TrendyTheme
 Version: 1.5
-*/   
+*/
 
 ;(function () {
 
@@ -355,6 +355,9 @@ Version: 1.5
                 }
             });
         }
+
+
+
 
         /* === Latest Blog Carousel === */
         if ($('.blog-carousel').length > 0) {

@@ -876,22 +876,7 @@
                     </div><!-- /.col-md-4 -->
               </div><!-- /.row -->
 
-              <div class="promo-box gray-bg border-box mt-100">
-                  <div class="post-info">
-                  <form method="post" id="contactForm1" name="contact-form">
-                    <div class="col-md-4">
-                            <div class="input-field">
-                                <label class="sr-only" for="email">Email</label>
-                                <input id="email" type="email" name="email" class="validate" >
-                                <label for="email" data-error="wrong" data-success="right">Email</label>
-                            </div>
-                    </div>
-                    <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-0">Subscribe</button>
-                    <div id="floating"><h2 class="text-extrabold text-uppercase font-25">we believe we could, so we do</h2></div>
-                  </form>
-                  </div>
-                  </div>
-              </div><!-- /.container -->
+              
         </section>
 
         <section class="section-padding">
@@ -1422,53 +1407,88 @@
         </section>
 
 
-        <footer class="footer footer-four">
-            <div class="primary-footer dark-bg lighten-4 text-center">
+        <!--footer 1 start -->
+        <footer class="footer footer-one">
+            <div class="primary-footer brand-bg">
                 <div class="container">
+                    <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top">
+                      <i class="material-icons">&#xE316;</i>
+                    </a>
 
-                  <a href="#top" class="page-scroll btn-floating btn-large back-top waves-effect waves-light" data-section="#top">
-                    <i class="material-icons">&#xE316;</i>
-                  </a>
+                    <div class="row">
+                        <div class="col-md-3 widget clearfix">
+                            <h2 class="white-text">About Materialize</h2>
+                            <p>Eleifend auctor condimentum luctus ac aenean bibendum erat facilisi hac dignissim himenaeos per hendrerit adipiscing varius lectus imperdiet cubilia dignissim dictumst.</p>
 
-                  <ul class="social-link tt-animate ltr mt-20">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa fa-rss"></i></a></li>
-                  </ul>
+                            <ul class="social-link tt-animate ltr">
+                              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                              <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+                              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                              <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                              <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                            </ul>
+                        </div><!-- /.col-md-3 -->
 
-                  <hr class="mt-15">
+                        <div class="col-md-3 widget">
+                            <h2 class="white-text">Imporant links</h2>
 
-                  <div class="row">
-                    <div class="col-md-12">
-                          <div class="footer-logo">
-                            <img src="assets/img/logo-colored.png" alt="">
-                          </div>
+                            <ul class="footer-list">
+                                <li><a href="#">About us</a></li>
+                                <li><a href="#">Services</a></li>
+                                <li><a href="#">Terms &amp; Condition</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Contact Us</a></li>
+                            </ul>
+                        </div><!-- /.col-md-3 -->
 
-                          <span class="copy-text">Copyright &copy; 2017 <a href="#">Bigperl</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp;  Designed By <a href="#">Bigperl Pvt Sol Ltd</a></span>
-                          <div class="footer-intro">
-                            <p>BigPerl Solutions Pvt Ltd is next generation technology company having head-office in heart of silicon valley of India – Bengaluru.</p>
-                          </div>
-                    </div><!-- /.col-md-12 -->
-                  </div><!-- /.row -->
+                        <div class="col-md-3 widget">
+                            <h2 class="white-text">Imporant links</h2>
+
+                            <ul class="footer-list">
+                                <li><a href="#">About us</a></li>
+                                <li><a href="#">Services</a></li>
+                                <li><a href="#">Terms &amp; Condition</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Contact Us</a></li>
+                            </ul>
+                        </div><!-- /.col-md-3 -->
+
+                        <div class="col-md-3 widget">
+                            <h2 class="white-text">Subcribe Widget</h2>
+
+                            <form  method="post" id="contactForm1" name="contact-form">
+                              <div class="form-group clearfix">
+                                <label class="sr-only" for="subscribe">Email address</label>
+                                <input type="email" class="form-control" name="email" id="subscribe" placeholder="Email address">
+                                <button type="submit" name="submit" class="tt-animate ltr"><i class="fa fa-long-arrow-right"></i></button>
+                              </div>
+                            </form>
+
+                            
+                            <div class="widget-tags">
+                              <h2 class="white-text">Tag Cloud</h2>
+                              <a href="#">Material</a>
+                              <a href="#">Design</a>
+                              <a href="#">Google</a>
+                              <a href="#">Gallery</a>
+                              <a href="#">Flat Design</a>
+                              <a href="#">Clean</a>
+                              <a href="#">Portfolio</a>
+                            </div><!-- /.widget-tags -->
+                        </div><!-- /.col-md-3 -->
+                    </div><!-- /.row -->
                 </div><!-- /.container -->
             </div><!-- /.primary-footer -->
 
-            <div class="secondary-footer dark-bg lighten-3 text-center">
+            <div class="secondary-footer brand-bg darken-2">
                 <div class="container">
-                    <ul>
-                      <li><a href="#">Home</a></li>
-                      <li><a href="#">About us</a></li>
-                      <li><a href="#">Services</a></li>
-                      <li><a href="#">Portfolio</a></li>
-                      <li><a href="#">Contact</a></li>
-                    </ul>
+                    <span class="copy-text">Copyright &copy; 2016 <a href="#">Materialize</a> &nbsp;  | &nbsp;  All Rights Reserved &nbsp;  | &nbsp;  Designed By <a href="#">TrendyTheme</a></span>
                 </div><!-- /.container -->
             </div><!-- /.secondary-footer -->
         </footer>
+        <!--footer 1 end-->
 
 
         <!-- Preloader -->
@@ -1503,6 +1523,59 @@
         <!-- RS5.0 Core JS Files -->
         <script src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
         <script src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script>
+        $('#contactForm').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contact.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+        $('#contactForm1').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contactus.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+      
+    </script>
         <script type="text/javascript">
             //  owlcarousel2 slider testmonials
             $('#testimonial-carousel').owlCarousel({
@@ -1527,7 +1600,8 @@
                 loop: true,
                 margin: 30,
                 autoplay: true,
-                autoplayTimeout: 3000
+                autoplayTimeout: 3000,
+
             });
 
             var owl = $('#customers-carousel1');
@@ -1548,6 +1622,8 @@
                 autoplay: true,
                 autoplayTimeout: 3000
             });
+
+
 
         </script>
         <!-- RS5.0 Init  -->

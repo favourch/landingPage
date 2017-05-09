@@ -7,22 +7,24 @@
 
     $to         = 'rajlaxmi@grabwebs.com';
 
+    $name = 'Bigperl';
+
     $email_template = 'contactus.html';
 
     // $name       = strip_tags($_GET['name']);
     $email      = strip_tags($_GET['email']);
     // $phone      = strip_tags($_GET['phone']);
-    $subject    = 'Subscirbe';
+    $subject    = 'Subscribe';
     // $message    = nl2br( htmlspecialchars($_GET['message'], ENT_QUOTES) );
     $result     = array();
 
 
-    if(empty($name)){
+    // if(empty($name)){
 
-        $result = array( 'response' => 'error', 'empty'=>'name', 'message'=>'<strong>Error!</strong>&nbsp; Name is empty.' );
-        echo json_encode($result );
-        die;
-    }
+    //     $result = array( 'response' => 'error', 'empty'=>'name', 'message'=>'<strong>Error!</strong>&nbsp; Name is empty.' );
+    //     echo json_encode($result );
+    //     die;
+    // }
 
 if(empty($email)){
 
@@ -64,7 +66,7 @@ if(empty($email)){
 
     $templateTags =  array(
         // '{{subject}}' => $subject,
-        '{{email}}'=>$email
+        '{{email}}'=>$email,
         // '{{message}}'=>$message,
         // '{{name}}'=>$name
         // '{{phone}}'=>$phone
