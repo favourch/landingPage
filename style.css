@@ -48,6 +48,22 @@
 
 /* ================= General ==================== */
 
+
+.owl-prev {
+    margin-left: -3em !important;
+    float: left;
+}
+
+.owl-dots{
+    display: none !important;
+}
+
+.owl-next {
+    margin-right: -3em !important;
+    float: right;
+}
+
+
 #floating {
     float: right;
     margin-top: 15px;
@@ -2349,6 +2365,9 @@ KEY FRAME
     .btn {
         font-size: 11px;
     }
+    .owl-dots{
+    display: block !important;
+}
 
 }
 

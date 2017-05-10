@@ -41,8 +41,6 @@
         <link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
         <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
         <link rel="stylesheet" type="text/css" href="style.css">
-        
-
     </head>
 
     <body id="top" class="has-header-search">
@@ -883,7 +881,7 @@
             <div id="customer-banner">
             <div class="section container">
                 <div class="text-center mb-80">
-                    <h2 class="section-title text-uppercase">What We Do</h2>
+                    <h2 class="section-title text-uppercase">Mostly Used Technologies</h2>
                 </div>
                 <div class="row">
                     <div class="owl-carousel owl-theme" id="customers-carousel1">
@@ -1304,7 +1302,7 @@
                                   </li>
 
                                   <li>
-                                      At <a href="#">Jan 15, 2016</a>
+                                      At <a href="#">2017</a>
                                   </li>
                               </ul>
                           </div><!-- .entry-meta -->
@@ -1578,14 +1576,7 @@
     </script>
         <script type="text/javascript">
             //  owlcarousel2 slider testmonials
-            $('#testimonial-carousel').owlCarousel({
-                items: 1,
-                loop: true,
-                nav: false
-            });
-            //  owlcarousel2 slider customers
-            var owl = $('#customers-carousel');
-            owl.owlCarousel({
+            $('#customers-carousel').owlCarousel({
                 responsive: {
                     0: {
                         items: 1
@@ -1597,32 +1588,35 @@
                         items: 4
                     }
                 },
-                loop: true,
-                margin: 30,
-                autoplay: true,
-                autoplayTimeout: 3000,
-
-            });
-
-            var owl = $('#customers-carousel1');
-            owl.owlCarousel({
-                responsive: {
-                    0: {
-                        items: 1
-                    },
-                    600: {
-                        items: 3
-                    },
-                    1000: {
-                        items: 4
-                    }
-                },
-                loop: true,
-                margin: 30,
+                loop  : true,
+                margin : 30,
+                nav    : true,
+                smartSpeed :900,
+                navText : ["<i class='fa fa-chevron-left position'></i>","<i class='fa fa-chevron-right position1'></i>"],
                 autoplay: true,
                 autoplayTimeout: 3000
             });
 
+            $('#customers-carousel1').owlCarousel({
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 3
+                    },
+                    1000: {
+                        items: 4
+                    }
+                },
+                loop  : true,
+                margin : 30,
+                nav    : true,
+                smartSpeed :900,
+                navText : ["<i class='fa fa-chevron-left position'></i>","<i class='fa fa-chevron-right position1'></i>"],
+                autoplay: true,
+                autoplayTimeout: 3000
+            });
 
 
         </script>
