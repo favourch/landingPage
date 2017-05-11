@@ -598,7 +598,7 @@
         <section class="section-padding">
             <div id="customer-banner">
             <div class="section container">
-                <div class="text-center mb-80">
+                <div class="text-center mb-80 padding-top-20">
                     <h2 class="section-title text-uppercase">What We Do</h2>
                 </div>
                 <div class="row">
@@ -717,7 +717,7 @@
         <section class="section-padding dark-bg lighten-4">
             <div class="container">
               <div class="row">
-                <div class="col-md-7 light-grey-text">
+                <div class="col-md-7 light-grey-text" style="padding-top: 30px;">
                 	<h2 class="font-40 mb-30 white-text">We Offer a Full Range of Digital Marketing Services!</h2>
                 	<p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. </p>
 
@@ -791,10 +791,9 @@
         </section>
 
 
-        <section class="section-padding">
+        <section class="section-padding" style="padding-top: 10px;">
             <div class="container">
-
-              <div class="text-center mb-80">
+              <div class="text-center mb-80 padding-top-20">
                   <h2 class="section-title text-uppercase">Why Choose Us</h2>
                   <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
               </div>
@@ -1182,7 +1181,7 @@
         </section>
 
 
-        <section class="padding-top-110 padding-bottom-70 brand-bg">
+        <section class="padding-top-20 padding-bottom-20 brand-bg">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -1220,14 +1219,28 @@
                   </div>
               </div><!-- /.col-md-8 -->
             </div><!-- /.row -->
+            <div class="col-md-8 col-md-offset-2">
+                            <form method="post" id="contactForm1" name="contact-form">
+
+                                <div class="clearfix">
+                                  <div class="input-field col-md-8">
+                                      <label class="sr-only" for="email">Email</label>
+                                    <input id="subscribeEmail" type="email" name="email" class="validate" style="border-bottom: 1px solid white;color: white;">
+                                    <!-- to showing error message -->
+                                    <label for="subscribeEmail" data-error="wrong" data-success="right" style="color: white;padding-left: 1em;">Type your email</label>
+                                  </div>
+                                  <p style="text-align: center;" class="col-md-4"><button type="submit" name="submit" class="waves-effect waves-light btn orange" >Stay Updated</button></p>
+                                </div>
+                            </form>
+                        </div><!-- /.col-md-8 -->
           </div><!-- /.container -->
         </section>
 
 
-        <section class="section-padding">
+        <section class="section-padding" style="padding-top: 10px;">
             <div class="container">
 
-              <div class="text-center mb-80">
+              <div class="text-center mb-80 padding-top-20">
                   <h2 class="section-title text-uppercase">Awesome clients</h2>
                   <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
               </div>
@@ -1273,7 +1286,7 @@
         <section class="section-padding featured-list-news">
             <div class="container">
 
-              <div class="text-center mb-80">
+              <div class="text-center mb-80 padding-top-20">
                   <h2 class="section-title text-uppercase">Latest Blog</h2>
                   <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
               </div>
@@ -1403,6 +1416,49 @@
 
             </div><!-- /.container -->
         </section>
+        <section class="section-padding">
+            <div class="position5">
+                <div class="panel panel-success">
+                    <div class="panel-body">
+                        <div class="row">
+                          <div class="col-md-12">
+                          <form method="post" id="contactForm3" name="contact-form">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <div class="input-field">
+                                  <input type="text" name="name" class="validate" id="name">
+                                  <label for="name">Name</label>
+                                </div>
+                              </div><!-- /.col-md-6 -->
+                              <div class="col-md-6">
+                                <div class="input-field">
+                                  <label class="sr-only" for="email">Email</label>
+                                  <input id="email" type="email" name="email" class="validate" >
+                                  <label for="email" data-error="wrong" data-success="right">Email</label>
+                                </div>
+                              </div><!-- /.col-md-6 -->
+                            </div><!-- /.row -->
+                            <div class="row">
+                              <div class="col-md-12">
+                                <div class="input-field">
+                                  <input id="subject" type="tel" name="subject" class="validate" >
+                                  <label for="subject">Subject</label>
+                                </div>
+                              </div><!-- /.col-md-6 -->
+                            </div>
+                            <div class="input-field">
+                              <textarea name="message" id="message" class="materialize-textarea" ></textarea>
+                              <label for="message">Message</label>
+                            </div>
+                            <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink">Send Message</button>
+                          </form>
+                          </div>
+                        </div>
+                    </div>                   
+                </div>
+            </div>
+            <p class="position2"><button class="waves-effect waves-circle waves-light btn-floating btn-large blue"><i class="material-icons">&#xE0BE;</i></button></p>
+        </section>
 
 
         <!--footer 1 start -->
@@ -1456,7 +1512,7 @@
                         <div class="col-md-3 widget">
                             <h2 class="white-text">Subcribe Widget</h2>
 
-                            <form  method="post" id="contactForm1" name="contact-form">
+                            <form  method="post" id="contactForm2" name="contact-form">
                               <div class="form-group clearfix">
                                 <label class="sr-only" for="subscribe">Email address</label>
                                 <input type="email" class="form-control" name="email" id="subscribe" placeholder="Email address">
@@ -1521,6 +1577,16 @@
         <!-- RS5.0 Core JS Files -->
         <script src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
         <script src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+               $(".position5").hide();
+               $(".position2").show();
+
+                $('.position2').click(function(){
+                $(".position5").slideToggle();
+              });
+            });
+        </script>
         <script>
         $('#contactForm').on('submit',function(e){
           e.preventDefault();
@@ -1554,6 +1620,58 @@
           $.ajax({
             method : 'post',
             url:'contactus.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm2').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contactus.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm3').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contact.php?'+dataresult,
             data: {name:$('#name').val()},
             datatype:'json',
             success:function(data){

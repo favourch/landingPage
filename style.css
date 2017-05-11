@@ -48,6 +48,25 @@
 
 /* ================= General ==================== */
 
+.position5{
+    position:fixed;
+    width:400px;
+    padding: 1em;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    margin-bottom: 4em;
+}
+
+.position2{
+    position:fixed;
+    padding: 1em;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    margin-bottom: 0;
+}
+
 
 .owl-prev {
     margin-left: -3em !important;
@@ -426,7 +445,7 @@ thead {
 }
 
 .section-padding {
-    padding: 20px 0;
+    padding: 0px 0;
 }
 
 
@@ -507,6 +526,9 @@ thead {
 
 
 /*padding-top*/
+.padding-top-20 {
+    padding-top: 20px;
+}
 .padding-top-50 {
     padding-top: 50px;
 }
