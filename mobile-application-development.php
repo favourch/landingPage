@@ -219,7 +219,7 @@
                             <li><a href="http://bigperl.com/portfolio/">Portfolio</a></li>
                             <li><a href="http://bigperl.com/careers/">Careers</a></li>
                             <li><a href="http://bigperl.com/careers/">Contact</a></li>
-                            <li><a href="#">
+                            <li><a>
                                 <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
                                   Get A Quote
                                 </button>
@@ -229,7 +229,7 @@
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                        <h4 class="modal-title" id="myModalLabel">Contact Us</h4>
                                       </div>
                                       <div class="modal-body">
                                             <div class="row">
@@ -726,7 +726,7 @@
                 		<li><i class="material-icons">&#xE876;</i> High customer retention rate.</li>
                 		<li><i class="material-icons">&#xE876;</i> We always return e-mails and calls within one business day.</li>
                         <li>
-                            <a href="#">
+                            <a >
                                 <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
                                   Get A Quote
                                 </button>
@@ -736,7 +736,7 @@
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                        <h4 class="modal-title" id="myModalLabel">Contact Us</h4>
                                       </div>
                                       <div class="modal-body">
                                             <div class="row">

@@ -56,6 +56,7 @@
     bottom: 0;
     z-index: 10000;
     margin-bottom: 4em;
+
 }
 
 .position2{
@@ -66,6 +67,10 @@
     z-index: 10000;
     margin-bottom: 0;
 }
+
+
+
+
 
 
 .owl-prev {
