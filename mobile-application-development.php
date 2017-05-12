@@ -1538,7 +1538,7 @@
 
             <div class="secondary-footer brand-bg darken-2">
                 <div class="container">
-                    <span class="copy-text">Copyright &copy; 2016 <a href="#">Materialize</a> &nbsp;  | &nbsp;  All Rights Reserved &nbsp;  | &nbsp;  Designed By <a href="#">TrendyTheme</a></span>
+                    <span class="copy-text">Copyright &copy; 2017 <a href="http://bigperl.com" target="_blank">Bigperl</a> &nbsp;  | &nbsp;  All Rights Reserved &nbsp;  | &nbsp;  Designed By <a href="http://bigperl.com" target="_blank">Bigperl Sol Pvt Ltd.</a></span>
                 </div><!-- /.container -->
             </div><!-- /.secondary-footer -->
         </footer>
