@@ -254,7 +254,7 @@
                                                   <div class="row">
                                                     <div class="col-md-12">
                                                       <div class="input-field">
-                                                        <input id="subject" type="tel" name="subject" class="validate" >
+                                                        <input id="subject" type="text" name="subject" class="validate" >
                                                         <label for="subject">Subject</label>
                                                       </div>
                                                     </div><!-- /.col-md-6 -->
@@ -1441,7 +1441,7 @@
                             <div class="row">
                               <div class="col-md-12">
                                 <div class="input-field">
-                                  <input id="subject" type="tel" name="subject" class="validate" >
+                                  <input id="subject" type="text" name="subject" class="validate" >
                                   <label for="subject">Subject</label>
                                 </div>
                               </div><!-- /.col-md-6 -->
