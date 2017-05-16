@@ -1219,20 +1219,12 @@
                   </div>
               </div><!-- /.col-md-8 -->
             </div><!-- /.row -->
-            <div class="col-md-8 col-md-offset-2">
-                            <form method="post" id="contactForm1" name="contact-form">
-
-                                <div class="clearfix">
-                                  <div class="input-field col-md-8">
-                                      <label class="sr-only" for="email">Email</label>
-                                    <input id="subscribeEmail" type="email" name="email" class="validate" style="border-bottom: 1px solid white;color: white;">
-                                    <!-- to showing error message -->
-                                    <label for="subscribeEmail" data-error="wrong" data-success="right" style="color: white;padding-left: 1em;">Type your email</label>
-                                  </div>
-                                  <p style="text-align: center;" class="col-md-4"><button type="submit" name="submit" class="waves-effect waves-light btn orange" >Stay Updated</button></p>
-                                </div>
-                            </form>
-                        </div><!-- /.col-md-8 -->
+            <div class="col-md-7 col-md-offset-3">
+                <form  method="post" id="contactForm2" name="contact-form">
+                    <input type="email" name="email" placeholder="Enter Email" style="width: 50%;background-color: white;padding: 20px;border-radius: 5px;color: black;">
+                    <button class="btn btn-sm indigo" name="submit"><i class="material-icons">send</i></button>
+                </form>
+            </div>
           </div><!-- /.container -->
         </section>
 
@@ -1457,7 +1449,7 @@
                     </div>                   
                 </div>
             </div>
-            <p class="position2"><button class="waves-effect waves-circle waves-light btn-floating btn-large blue"><i class="material-icons">&#xE0BE;</i></button></p>
+            <p class="position2"><button class="waves-effect waves-circle waves-light btn-floating btn-large blue"><i class="material-icons">comment</i></button></p>
         </section>
 
 
@@ -1466,7 +1458,7 @@
             <div class="primary-footer brand-bg">
                 <div class="container">
                     <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top">
-                      <i class="material-icons">&#xE316;</i>
+                      <i class="material-icons">&#xE316;</i>   
                     </a>
 
                     <div class="row">
@@ -1581,10 +1573,15 @@
             $(document).ready(function(){
                $(".position5").hide();
                $(".position2").show();
-
                 $('.position2').click(function(){
                 $(".position5").slideToggle();
               });
+            });
+
+            $(".position2 i").click(function(){
+                $(this).text(function(i, text){
+                    return text === "close" ? "comment" : "close";
+                })
             });
         </script>
         <script>
