@@ -51,20 +51,16 @@
               <div class="col-md-6">
                 <!-- Social Icon -->
                 <ul class="list-inline social-top tt-animate btt">
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
-                  <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                  <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                  <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                  <li><a href="https://www.facebook.com/BigperlSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="https://twitter.com/BigPerl" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                  <li><a href="https://www.linkedin.com/company/bigperl-solutions-pvt-ltd-?trk=top_nav_home" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
 
               <div class="col-md-6 text-right">
                 <ul class="topbar-cta no-margin">
                   <li class="mr-20">
-                    <a><i class="material-icons mr-10">&#xE0B9;</i>info@grabwebs.com</a>
+                    <a><i class="material-icons mr-10">&#xE0B9;</i>connect@bigperl.com</a>
                   </li>
                   <li>
                     <a><i class="material-icons mr-10">&#xE0CD;</i> +91 1800-200-5215</a>
@@ -594,121 +590,70 @@
         </section><!-- end of slider wrapper -->
 
         <section class="section-padding">
-            <div id="customer-banner">
-            <div class="section container">
+            <div class="container">
                 <div class="text-center mb-80 padding-top-20">
                     <h2 class="section-title text-uppercase">What We Do</h2>
                 </div>
-                <div class="row">
-                    <div class="owl-carousel owl-theme" id="customers-carousel">
-                        <div class="item active">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-1.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>IOS Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
+                <div class="portfolio portfolio-with-title col-4 gutter">
+                    <div class="portfolio-item">
+                        <div class="featured-item seo-service">
+                            <div class="icon">
+                                <img class="img-responsive" src="assets/img/seo/service-1.jpg" alt="">
+                            </div>
+                            <div class="desc">
+                                <h2>IOS Development</h2>
+                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <div class="bg-overlay"></div>
+                                <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                            </div>
                         </div>
-                        <div class="item">
-                                    <div class="featured-item seo-service">
-                                      <div class="icon">
-                                          <img class="img-responsive" src="assets/img/seo/service-2.jpg" alt="">
-                                      </div>
-                                      <div class="desc">
-                                          <h2>Android Development</h2>
-                                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                          <div class="bg-overlay"></div>
-                                          <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                      </div>
-                                  </div>
-                        </div>
-                        
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                      <div class="icon">
-                                          <img class="img-responsive" src="assets/img/seo/service-3.jpg" alt="">
-                                      </div>
-                                      <div class="desc">
-                                          <h2>Hybrid Development</h2>
-                                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                          <div class="bg-overlay"></div>
-                                          <p><a class="learn-more" href="http://bigperl.com/hybrid-mobile-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                      </div>
-                                  </div>
-                        </div>
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-4.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>Xamarin Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
-                        </div>
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-9.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>PHP Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
-                        </div>
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-10.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>Ruby On Rails Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
-                        </div>
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-11.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>JAVA & J2EE Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
-                        </div>
-                        <div class="item">
-                                <div class="featured-item seo-service">
-                                  <div class="icon">
-                                      <img class="img-responsive" src="assets/img/seo/service-12.jpg" alt="">
-                                  </div>
-                                  <div class="desc">
-                                      <h2>CMS Development</h2>
-                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
-                                      <div class="bg-overlay"></div>
-                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
-                                  </div>
-                              </div>
-                        </div>
-                    </div>
+                    </div><!-- /.portfolio-item -->
                 </div>
-            </div>
+                <div class="portfolio portfolio-with-title col-4 gutter">
+                    <div class="portfolio-item">
+                        <div class="featured-item seo-service">
+                            <div class="icon">
+                                <img class="img-responsive" src="assets/img/seo/service-2.jpg" alt="">
+                            </div>
+                            <div class="desc">
+                                <h2>Android Development</h2>
+                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <div class="bg-overlay"></div>
+                                <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                            </div>
+                        </div>
+                    </div><!-- /.portfolio-item -->
+                </div>
+                <div class="portfolio portfolio-with-title col-4 gutter">
+                    <div class="portfolio-item">
+                        <div class="featured-item seo-service">
+                            <div class="icon">
+                                <img class="img-responsive" src="assets/img/seo/service-3.jpg" alt="">
+                            </div>
+                            <div class="desc">
+                                <h2>Hybrid Development</h2>
+                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <div class="bg-overlay"></div>
+                                <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                            </div>
+                        </div>
+                    </div><!-- /.portfolio-item -->
+                </div>
+                <div class="portfolio portfolio-with-title col-4 gutter">
+                    <div class="portfolio-item">
+                        <div class="featured-item seo-service">
+                            <div class="icon">
+                                <img class="img-responsive" src="assets/img/seo/service-4.jpg" alt="">
+                            </div>
+                            <div class="desc">
+                                <h2>Xamarin Development</h2>
+                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <div class="bg-overlay"></div>
+                                <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                            </div>
+                        </div>
+                    </div><!-- /.portfolio-item -->
+                </div>
             </div>
         </section>
 
@@ -982,6 +927,58 @@
                                   <div class="desc">
                                       <h2>ADF & Web Center Development</h2>
                                       <p>Porttitor communicate pandemic data rather than enabled niche</p>
+                                      <div class="bg-overlay"></div>
+                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                                  </div>
+                              </div>
+                        </div>
+                        <div class="item">
+                                <div class="featured-item seo-service">
+                                  <div class="icon">
+                                      <img class="img-responsive" src="assets/img/seo/service-9.jpg" alt="">
+                                  </div>
+                                  <div class="desc">
+                                      <h2>PHP Development</h2>
+                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                      <div class="bg-overlay"></div>
+                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                                  </div>
+                              </div>
+                        </div>
+                        <div class="item">
+                                <div class="featured-item seo-service">
+                                  <div class="icon">
+                                      <img class="img-responsive" src="assets/img/seo/service-10.jpg" alt="">
+                                  </div>
+                                  <div class="desc">
+                                      <h2>Ruby On Rails Development</h2>
+                                      <p>Porttitor communicate pandemic data rather than enabled niche</p>
+                                      <div class="bg-overlay"></div>
+                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                                  </div>
+                              </div>
+                        </div>
+                        <div class="item">
+                                <div class="featured-item seo-service">
+                                  <div class="icon">
+                                      <img class="img-responsive" src="assets/img/seo/service-11.jpg" alt="">
+                                  </div>
+                                  <div class="desc">
+                                      <h2>JAVA & J2EE Development</h2>
+                                      <p>Porttitor communicate pandemic data rather than enabled niche</p>
+                                      <div class="bg-overlay"></div>
+                                      <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
+                                  </div>
+                              </div>
+                        </div>
+                        <div class="item">
+                                <div class="featured-item seo-service">
+                                  <div class="icon">
+                                      <img class="img-responsive" src="assets/img/seo/service-12.jpg" alt="">
+                                  </div>
+                                  <div class="desc">
+                                      <h2>CMS Development</h2>
+                                      <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                                       <div class="bg-overlay"></div>
                                       <p><a class="learn-more" href="http://bigperl.com/iphone-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                                   </div>
@@ -1447,7 +1444,7 @@
                     </div>                   
                 </div>
             </div>
-            <p class="position2"><button class="waves-effect waves-circle waves-light btn-floating btn-large blue"><i class="material-icons">comment</i></button></p>
+            <button class="waves-effect waves-circle waves-light btn-floating btn-large blue position2"><i class="material-icons">comment</i></button>
         </section>
 
 
@@ -1576,7 +1573,7 @@
               });
             });
 
-            $(".position2 i").click(function(){
+            $(".waves-circle i").click(function(){
                 $(this).text(function(i, text){
                     return text === "close" ? "comment" : "close";
                 })
