@@ -46,16 +46,19 @@
 
 
 
+
+
 /* ================= General ==================== */
+
+
+#inputs:focus {
+    border: 1px solid white;
+}
 
 .tex{
     padding: 5px;
 }
 
-.waves-circle i {
-    line-height: 55.5px;
-    font-size: 20px;
-}
 
 .position5{
     position:fixed;

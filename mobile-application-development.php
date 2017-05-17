@@ -220,9 +220,7 @@
                             <li><a href="http://bigperl.com/careers/">Careers</a></li>
                             <li><a href="http://bigperl.com/careers/">Contact</a></li>
                             <li><a>
-                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
-                                  Get A Quote
-                                </button>
+                                <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >Get A Quote</button>
                                 <!-- Modal -->
                                 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="width: 100%;min-height: 100%;background-color: transparent;">
                                   <div class="modal-dialog" role="document">
@@ -1219,10 +1217,10 @@
                   </div>
               </div><!-- /.col-md-8 -->
             </div><!-- /.row -->
-            <div class="col-md-7 col-md-offset-3">
+            <div class="text-center">
                 <form  method="post" id="contactForm2" name="contact-form">
-                    <input type="email" name="email" placeholder="Enter Email" style="width: 50%;background-color: white;padding: 20px;border-radius: 5px;color: black;">
-                    <button class="btn btn-sm indigo" name="submit"><i class="material-icons">send</i></button>
+                    <input type="email" name="email" placeholder="Enter Email" style="width: 30%;background-color: lightcyan;padding: 19px;border-radius: 5px;color: black;border-radius: 5px 0px 0px 5px" id="inputs">
+                    <button class="btn btn-sm indigo" name="submit" style="position: absolute;margin-left: -1px;"><i class="material-icons">send</i></button>
                 </form>
             </div>
           </div><!-- /.container -->
