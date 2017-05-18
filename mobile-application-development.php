@@ -604,7 +604,7 @@
                                 <img class="img-responsive" src="assets/img/seo/service-1.jpg" alt="">
                             </div>
                             <div class="desc">
-                                <h2>IOS Development</h2>
+                                <h2>IOS App Development</h2>
                                 <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
@@ -619,7 +619,7 @@
                                 <img class="img-responsive" src="assets/img/seo/service-2.jpg" alt="">
                             </div>
                             <div class="desc">
-                                <h2>Android Development</h2>
+                                <h2>Android App Development</h2>
                                 <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
@@ -634,7 +634,7 @@
                                 <img class="img-responsive" src="assets/img/seo/service-3.jpg" alt="">
                             </div>
                             <div class="desc">
-                                <h2>Hybrid Development</h2>
+                                <h2>Hybrid App Development</h2>
                                 <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
@@ -649,7 +649,7 @@
                                 <img class="img-responsive" src="assets/img/seo/service-4.jpg" alt="">
                             </div>
                             <div class="desc">
-                                <h2>Xamarin Development</h2>
+                                <h2>Xamarin App Development</h2>
                                 <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="http://bigperl.com/android-application-development/">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
