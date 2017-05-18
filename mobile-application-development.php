@@ -65,6 +65,9 @@
                   <li>
                     <a><i class="material-icons mr-10">&#xE0CD;</i> +91 1800-200-5215</a>
                   </li>
+                  <li>
+                    <a><i class="material-icons mr-10">&#xE0CD;</i> +1 253-656-5033</a>
+                  </li>
                 </ul>
               </div>
             </div><!-- /.row -->
