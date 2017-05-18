@@ -60,7 +60,7 @@
               <div class="col-md-6 text-right">
                 <ul class="topbar-cta no-margin">
                   <li class="mr-20">
-                    <a><i class="material-icons mr-10">&#xE0B9;</i>connect@bigperl.com</a>
+                    <a><i class="material-icons mr-10">&#xE0B9;</i>info@bigperl.com</a>
                   </li>
                   <li>
                     <a><i class="material-icons mr-10">&#xE0CD;</i> +91 1800-200-5215</a>
@@ -1437,7 +1437,7 @@
                               <textarea name="message" id="message" class="materialize-textarea" ></textarea>
                               <label for="message">Message</label>
                             </div>
-                            <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink">Send Message</button>
+                            <button type="submit" name="submit" class="btn-sm btnclass">Send Message</button>
                           </form>
                           </div>
                         </div>
