@@ -63,10 +63,10 @@
                     <a><i class="material-icons mr-10">&#xE0B9;</i>info@bigperl.com</a>
                   </li>
                   <li>
-                    <a><i class="material-icons mr-10">&#xE0CD;</i> +91 1800-200-5215</a>
+                    <a><i class="material-icons mr-10">&#xE0CD;</i><img src="assets/img/india.png" height="25px" width="auto"> +91 1800-200-5215</a>
                   </li>
                   <li>
-                    <a><i class="material-icons mr-10">&#xE0CD;</i> +1 253-656-5033</a>
+                    <a><img src="assets/img/us.png"  height="25px" width="auto"> +1 253-656-5033</a>
                   </li>
                 </ul>
               </div>
