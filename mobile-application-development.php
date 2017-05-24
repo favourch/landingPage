@@ -76,7 +76,7 @@
             </div><!-- /.top-bar -->
             <div class="header-sticky light-header ">
 
-                <div class="container">
+                <div class="container-fluid">
                     
                 </div>
 
