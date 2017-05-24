@@ -44,38 +44,36 @@
     </head>
 
     <body id="top" class="has-header-search">
-        <div class="top-bar dark-bg lighten-2 visible-md visible-lg">
-          <div class="container">
-            <div class="row">
-              <!-- Social Icon -->
-              <div class="col-md-6">
-                <!-- Social Icon -->
-                <ul class="list-inline social-top tt-animate btt">
-                  <li><a href="https://www.facebook.com/BigperlSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="https://twitter.com/BigPerl" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="https://www.linkedin.com/company/bigperl-solutions-pvt-ltd-?trk=top_nav_home" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-              </div>
-
-              <div class="col-md-6 text-right">
-                <ul class="topbar-cta no-margin">
-                  <li class="mr-20">
-                    <a><i class="material-icons mr-10">&#xE0B9;</i>info@bigperl.com</a>
-                  </li>
-                  <li>
-                    <a><i class="material-icons mr-10">&#xE0CD;</i><img src="assets/img/india.png" height="25px" width="auto"> +91 1800-200-5215</a>
-                  </li>
-                  <li>
-                    <a><img src="assets/img/us.png"  height="25px" width="auto"> +1 253-656-5033</a>
-                  </li>
-                </ul>
-              </div>
-            </div><!-- /.row -->
-          </div><!-- /.container -->
-        </div><!-- /.top-bar -->
-        <!--header start-->
         <header id="header" class="tt-nav">
+            <div class="top-bar dark-bg lighten-2 visible-md visible-lg">
+              <div class="container">
+                <div class="row">
+                  <!-- Social Icon -->
+                  <div class="col-md-6">
+                    <!-- Social Icon -->
+                    <ul class="list-inline social-top tt-animate btt">
+                      <li><a href="https://www.facebook.com/BigperlSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://twitter.com/BigPerl" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="https://www.linkedin.com/company/bigperl-solutions-pvt-ltd-?trk=top_nav_home" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                  </div>
 
+                  <div class="col-md-6 text-right">
+                    <ul class="topbar-cta no-margin">
+                      <li class="mr-20">
+                        <a><i class="material-icons mr-10">&#xE0B9;</i>info@bigperl.com</a>
+                      </li>
+                      <li>
+                        <a><i class="material-icons mr-10">&#xE0CD;</i><img src="assets/img/india.png" height="25px" width="auto"> +91 1800-200-5215</a>
+                      </li>
+                      <li>
+                        <a><img src="assets/img/us.png"  height="25px" width="auto"> +1 253-656-5033</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div><!-- /.row -->
+              </div><!-- /.container -->
+            </div><!-- /.top-bar -->
             <div class="header-sticky light-header ">
 
                 <div class="container">

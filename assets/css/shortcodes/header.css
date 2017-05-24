@@ -273,6 +273,7 @@ header.sticky .menuzord-menu>li>a,
     width: 100%;
     float: left;
     position: relative;
+    background-color: white;
 }
 .menuzord a,
 .menuzord-menu ul.dropdown li a {
