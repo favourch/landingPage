@@ -46,7 +46,7 @@
     <body id="top" class="has-header-search">
         <header id="header" class="tt-nav">
             <div class="top-bar dark-bg lighten-2 visible-md visible-lg">
-              <div class="container">
+              <div class="container-fluid">
                 <div class="row">
                   <!-- Social Icon -->
                   <div class="col-md-6">
@@ -76,7 +76,7 @@
             </div><!-- /.top-bar -->
             <div class="header-sticky light-header ">
 
-                <div class="container-fluid">
+                <div class="container">
                     
                 </div>
 
