@@ -554,6 +554,12 @@ thead {
 .padding-top-20 {
     padding-top: 20px;
 }
+.padding-top-30 {
+    padding-top: 30px;
+}
+.padding-top-40 {
+    padding-top: 40px;
+}
 .padding-top-50 {
     padding-top: 50px;
 }
@@ -595,6 +601,9 @@ thead {
 .padding-bottom-30 {
     padding-bottom: 30px;
 }
+.padding-bottom-40 {
+    padding-bottom: 40px;
+}
 .padding-bottom-50 {
     padding-bottom: 50px;
 }
@@ -630,7 +639,7 @@ thead {
 
 /*padding top bottom*/
 .ptb-30 {
-    padding: 30px 0;
+    padding: 20px 0;
 }
 .ptb-50 {
     padding: 50px 0;
@@ -1234,7 +1243,7 @@ thead {
     background-image: url("assets/img/banner/banner-5.jpg");
 }
 .banner-6 {
-    background-image: url("assets/img/banner/banner-6.jpg");  
+    background-image: url("assets/img/banner-6.jpg");  
 }
 .banner-7 {
     background-image: url("assets/img/banner/banner-7.jpg");  

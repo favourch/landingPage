@@ -36,8 +36,7 @@ Page title
     background-color: transparent;
     width: auto;
     top: 50%;
-    left: auto;
-    right: 30px ;
+    left: 0px;
     margin: -10px 0 0 0;
     padding: 0;
     font-size: 12px;
