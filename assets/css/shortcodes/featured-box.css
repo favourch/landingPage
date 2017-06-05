@@ -49,7 +49,7 @@ Common featured boxes
 .featured-box {
     position: relative;
     overflow: hidden;
-    min-height: 250px;
+    min-height: 220px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -104,7 +104,7 @@ Common featured boxes
     position: absolute;
     bottom: 0;
     left: 0;
-    padding: 20px;
+    padding: 10px;
     width: 100%;
     opacity: 0;
 

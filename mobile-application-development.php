@@ -1453,7 +1453,7 @@
         <footer class="footer footer-one">
             <div class="primary-footer brand-bg">
                 <div class="container">
-                    <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top">
+                    <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top" style="margin-top: 80px;">
                       <i class="material-icons">&#xE316;</i>   
                     </a>
 
@@ -1506,9 +1506,7 @@
                                 <input type="email" class="form-control" name="email" id="subscribe" placeholder="Email address">
                                 <button type="submit" name="submit" class="tt-animate ltr"><i class="fa fa-long-arrow-right"></i></button>
                               </div>
-                            </form>
-
-                            
+                            </form>                            
                             <div class="widget-tags">
                               <h2 class="white-text">Tag Cloud</h2>
                               <a href="#">Material</a>
@@ -1517,7 +1515,6 @@
                               <a href="#">Gallery</a>
                               <a href="#">Flat Design</a>
                               <a href="#">Clean</a>
-                              <a href="#">Portfolio</a>
                             </div><!-- /.widget-tags -->
                         </div><!-- /.col-md-3 -->
                     </div><!-- /.row -->

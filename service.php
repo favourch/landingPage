@@ -280,7 +280,7 @@
             <div class="container padding-top-40">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 style="float: right;">Services</h2>
+                        <h6 style="float: right;margin-bottom: -5px;">Services</h6>
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li class="active">Services</li>
@@ -292,11 +292,11 @@
         <!--page title end-->
 
 
-        <section class="section-padding padding-bottom-20">
+        <section class="section-padding">
             <div class="container">
-              <div class="text-center padding-top-20">
-                  <h2 class="section-title text-uppercase">What we do</h2>
-                  <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
+              <div class="text-center">
+                  <h2 class="section-title text-uppercase" style="margin-bottom: 5px;">What we do</h2>
+                  <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque</p>
               </div>
 
               <div class="row no-gutter">
@@ -361,7 +361,7 @@
                       </div><!-- /.featured-box  -->
                   </div><!-- /.col-md-3 -->
               </div><!-- /.row -->
-              <div class="row padding-top-100">
+              <div class="row padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-30">Creative Artist</h2>
                       
@@ -705,7 +705,7 @@
         <footer class="footer footer-one">
             <div class="primary-footer brand-bg">
                 <div class="container">
-                    <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top">
+                    <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top" style="margin-top: 80px;">
                       <i class="material-icons">&#xE316;</i>   
                     </a>
 
@@ -769,7 +769,6 @@
                               <a href="#">Gallery</a>
                               <a href="#">Flat Design</a>
                               <a href="#">Clean</a>
-                              <a href="#">Portfolio</a>
                             </div><!-- /.widget-tags -->
                         </div><!-- /.col-md-3 -->
                     </div><!-- /.row -->
