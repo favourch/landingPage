@@ -68,3 +68,4 @@
                       </div><!-- /.featured-box  -->
                   </div><!-- /.col-md-3 -->
               </div><!-- /.row -->
+              </div></section>

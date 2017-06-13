@@ -10,7 +10,6 @@
 
         <section class="section-padding banner-10 bg-fixed parallax-bg overlay light-9" data-stellar-background-ratio="0.5">
             <div class="container">
-
               <div class="text-center mb-80">
                   <h2 class="section-title text-uppercase">Techonologies we use</h2>
                   <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>

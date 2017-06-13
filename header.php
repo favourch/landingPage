@@ -97,7 +97,7 @@
                             <li><a href="javascript:void(0)">About Us</a>
                                 <ul class="dropdown">
                                     <li><a href="http://bigperl.com/our-clients/">Our Clients</a></li>
-                                    <li><a href="about-us">Success Stories</a></li>
+                                    <li><a href="about-us.php">Success Stories</a></li>
                                     <li><a href="http://bigperl.com/blogs/">Blogs</a></li>
                                     <li><a href="http://bigperl.com/awards-recognition-certificate/">Recongnition</a></li>
                                     <li><a href="http://bigperl.com/faq/">News Room</a></li>
@@ -105,10 +105,10 @@
                             </li>
                             <li><a href="javascript:void(0)">Industry</a>
                                 <ul class="dropdown">
-                                    <li><a href="startupsme">Startup / SME</a></li>
-                                    <li><a href="enterprise-it">Enterprise IT</a></li>
-                                    <li><a href="architectureit">Architecture IT</a></li>
-                                    <li><a href="government">Government IT</a></li>
+                                    <li><a href="startupsme.php">Startup / SME</a></li>
+                                    <li><a href="enterprise-it.php">Enterprise IT</a></li>
+                                    <li><a href="architectureit.php">Architecture IT</a></li>
+                                    <li><a href="government.php">Government IT</a></li>
                                 </ul>
                             </li>
                             <li><a href="javascript:void(0)">Services</a>
@@ -117,56 +117,56 @@
                                         <div class="col3">
                                             <h2>Mobile App Development</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="android-application-development">Android App Development</a></li>
-                                                <li><a href="ios-application-development">IPhone App Development</a></li>
-                                                <li><a href="ipad-app-development">Ipad App Development</a></li>
-                                                <li><a href="windows-app-development">Windows App Development</a></li>
-                                                <li><a href="blackberry-application-development">BlackBerry App Development</a></li>
-                                                <li><a href="hybrid-mobile-application-development">Hybrid Mobile Development</a></li>
-                                                <li><a href="wearable-devices">Wearable Devices</a></li>
-                                                <li><a href="internet-of-things-iot-solutions">Internet Of Things (IOT)</a></li>
+                                                <li><a href="android-application-development.php">Android App Development</a></li>
+                                                <li><a href="ios-application-development.php">IPhone App Development</a></li>
+                                                <li><a href="ipad-app-development.php">Ipad App Development</a></li>
+                                                <li><a href="windows-app-development.php">Windows App Development</a></li>
+                                                <li><a href="blackberry-application-development.php">BlackBerry App Development</a></li>
+                                                <li><a href="hybrid-mobile-application-development.php">Hybrid Mobile Development</a></li>
+                                                <li><a href="wearable-devices.php">Wearable Devices</a></li>
+                                                <li><a href="internet-of-things-iot-solutions.php">Internet Of Things (IOT)</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>Website Development</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="php-development">PHP Development</a></li>
-                                                <li><a href="ruby-on-rails-development">ROR Development</a></li>
-                                                <li><a href="java-development-services">Java & J2EE Development</a></li>
-                                                <li><a href="responsive-web-development">Responsive Web Development</a></li>
-                                                <li><a href="python-development">Python Development</a></li>
-                                                <li><a href="adf-and-webcenter-development">ADF and Web Development</a></li>
-                                                <li><a href="facebook-app-development">Facebook App Development</a></li>
+                                                <li><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="ruby-on-rails-development.php">ROR Development</a></li>
+                                                <li><a href="java-development-services.php">Java & J2EE Development</a></li>
+                                                <li><a href="responsive-web-development.php">Responsive Web Development</a></li>
+                                                <li><a href="python-development.php">Python Development</a></li>
+                                                <li><a href="adf-and-webcenter-development.php">ADF and Web Development</a></li>
+                                                <li><a href="facebook-app-development.php">Facebook App Development</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>Open Source Customization</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="codeigniter-development">Codeigniter Development</a></li>
-                                                <li><a href="cakephp-development">Cakephp Development</a></li>
-                                                <li><a href="laravel-development">Laravel Development</a></li>
-                                                <li><a href="cms-development">CMS Development</a></li>
-                                                <li><a href="wordpress-development">Wordpress Development</a></li>
-                                                <li><a href="drupal-development">Drupal Development</a></li>
-                                                <li><a href="joomla-development">Joomla Development</a></li>
-                                                <li><a href="e-commerce-development">E-Commerce Development</a></li>
-                                                <li><a href="magento-development">Magento Development</a></li>
-                                                <li><a href="x-cart-development">X-Cart Development</a></li>
+                                                <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="cakephp-development.php">Cakephp Development</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                <li><a href="cms-development.php">CMS Development</a></li>
+                                                <li><a href="wordpress-development.php">Wordpress Development</a></li>
+                                                <li><a href="drupal-development.php">Drupal Development</a></li>
+                                                <li><a href="joomla-development.php">Joomla Development</a></li>
+                                                <li><a href="e-commerce-development.php">E-Commerce Development</a></li>
+                                                <li><a href="magento-development.php">Magento Development</a></li>
+                                                <li><a href="x-cart-development.php">X-Cart Development</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>Specialized Home</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="web-application-developer">Web Application Developer</a></li>
-                                                <li><a href="php-developer">PHP Developer</a></li>
-                                                <li><a href="ecommerce-developer">eCommerce Developer</a></li>
-                                                <li><a href="magento-developer">Magento Developer</a></li>
-                                                <li><a href="android-developer">Android Developer</a></li>
-                                                <li><a href="ios-developer">IOS Developer</a></li>
-                                                <li><a href="phonegap-developer">PhoneGap Developer</a></li>
-                                                <li><a href="python-developer">Python Developer</a></li>
-                                                <li><a href="ruby-on-rails-ror-developer">ROR Developer</a></li>
-                                                <li><a href="adf-developer">ADF Developer</a></li>
+                                                <li><a href="web-application-developer.php">Web Application Developer</a></li>
+                                                <li><a href="php-developer.php">PHP Developer</a></li>
+                                                <li><a href="ecommerce-developer.php">eCommerce Developer</a></li>
+                                                <li><a href="magento-developer.php">Magento Developer</a></li>
+                                                <li><a href="android-developer.php">Android Developer</a></li>
+                                                <li><a href="ios-developer.php">IOS Developer</a></li>
+                                                <li><a href="phonegap-developer.php">PhoneGap Developer</a></li>
+                                                <li><a href="python-developer.php">Python Developer</a></li>
+                                                <li><a href="ruby-on-rails-ror-developer.php">ROR Developer</a></li>
+                                                <li><a href="adf-developer.php">ADF Developer</a></li>
                                             </ul>
                                         </div>
 
@@ -179,37 +179,37 @@
                                         <div class="col3">
                                             <h2>GPS & Mobility</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="mobile-tracking">GPS Mobile Tracking</a></li>
-                                                <li><a href="vehicle-tracking">GPS Vehicle Tracking</a></li>
-                                                <li><a href="gps-wearables">GPS Wearables</a></li>
-                                                <li><a href="field-force-automation-ffa">Field Force Automation (FFA)</a></li>
-                                                <li><a href="gps-assets-tracking">GPS Assets Tracking</a></li>
+                                                <li><a href="mobile-tracking.php">GPS Mobile Tracking</a></li>
+                                                <li><a href="vehicle-tracking.php">GPS Vehicle Tracking</a></li>
+                                                <li><a href="gps-wearables.php">GPS Wearables</a></li>
+                                                <li><a href="field-force-automation-ffa.php">Field Force Automation (FFA)</a></li>
+                                                <li><a href="gps-assets-tracking.php">GPS Assets Tracking</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>Hospitality Automation</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="hotel-booking-engine">Hotel Booking Engine</a></li>
-                                                <li><a href="hotel-management-system">Hotel Management System</a></li>
-                                                <li><a href="hotel-inventory-management">Hotel Inventory Management</a></li>
-                                                <li><a href="travel-booking-e-commerce">Travel Booking E-Commerce</a></li>
-                                                <li><a href="food-on-wheel-fow-ordering">Food On Wheel (FOW) Ordering</a></li>
+                                                <li><a href="hotel-booking-engine.php">Hotel Booking Engine</a></li>
+                                                <li><a href="hotel-management-system.php">Hotel Management System</a></li>
+                                                <li><a href="hotel-inventory-management.php">Hotel Inventory Management</a></li>
+                                                <li><a href="travel-booking-e-commerce.php">Travel Booking E-Commerce</a></li>
+                                                <li><a href="food-on-wheel-fow-ordering.php">Food On Wheel (FOW) Ordering</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>Architectural IT</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="architectural-network">Architectural Network</a></li>
-                                                <li><a href="construction-suppliers-nw">Construction Supplier N/W</a></li>
+                                                <li><a href="architectural-network.php">Architectural Network</a></li>
+                                                <li><a href="construction-suppliers-nw.php">Construction Supplier N/W</a></li>
                                             </ul>
                                         </div>
                                         <div class="col3">
                                             <h2>ERP & CRM</h2>
                                             <ul class="list-unstyled clearfix">
-                                                <li><a href="enterprise-crm-sales">Enterprise CRM - Sales</a></li>
-                                                <li><a href="enterprise-crm-support">Enterprise CRM - Support</a></li>
-                                                <li><a href="saas-based-erp">SaaS Based ERP</a></li>
-                                                <li><a href="saas-based-payroll">SaaS Based Payroll</a></li>
+                                                <li><a href="enterprise-crm-sales.php">Enterprise CRM - Sales</a></li>
+                                                <li><a href="enterprise-crm-support.php">Enterprise CRM - Support</a></li>
+                                                <li><a href="saas-based-erp.php">SaaS Based ERP</a></li>
+                                                <li><a href="saas-based-payroll.php">SaaS Based Payroll</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -217,7 +217,7 @@
                             </li>
                             <li><a href="http://bigperl.com/portfolio/">Portfolio</a></li>
                             <li><a href="http://bigperl.com/careers/">Careers</a></li>
-                            <li><a href="contact-us">Contact</a></li>
+                            <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                         <!-- menu end-->
 

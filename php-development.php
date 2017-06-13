@@ -18,9 +18,9 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		<?php include 'header2.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">PHP Development</h2>
                       <p>PHP is being used on 244+ million websites and 2.1 million web servers the world over.</p>
