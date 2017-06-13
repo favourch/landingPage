@@ -494,7 +494,8 @@ header.sticky .menuzord-menu>li>a,
     display: block;
     min-height: 20px;
     float: left;
-    margin-left: 3%
+    margin-left: 3%;
+    border : 1px solid rgba(0, 0, 0, 0.03) !important;
 }
 .menuzord-menu>li>.megamenu .megamenu-row [class*=col]:first-child {
     margin-left: 0

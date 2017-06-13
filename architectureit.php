@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Architecture Solutions</h2>
                       <p>Bigperl solutions being one of the leading business application development company working towards bringing an enterprise application distribution over various other platforms like BlackBerry, Android, and Apple etc. By making it available to the customer with a click of a button. Our penetration into the smart devices towards customer markets has made relatively inexpensive and easier for integration.</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">X-Cart Development</h2>
                       <p>As professional web designers and developers we keep researching a lot on latest technologies and platforms available and Magento is also a result of this research. We at Bigperl found Magento Ecommerce development to be successful and powerful platform because of the following reasons:</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">ADF and Webcenter Development</h2>
                       <p>Built on top of the MVC-based JavaServer Faces framework, Oracle Application Development Framework (ADF) forms the foundation for WebCenter Portal’s components and services. ADF is an innovative, yet mature Java EE development framework available from Oracle, and, unlike most other frameworks, is directly supported and enabled by the award winning development environment, Oracle JDeveloper 11g.</p>

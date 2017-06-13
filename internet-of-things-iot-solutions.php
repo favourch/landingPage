@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Harness the Power of Future Technology</h2>
                       <p>As the technolgy is evolving day by day, the way of interaction between human-human, and human-devices has got advanced. That is because of the power of internet technology, particularly, Internet of Things (IoT).</p>

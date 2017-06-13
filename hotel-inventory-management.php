@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Hotel inventory management</h2>
                       <p>A Hotel Inventory Management improves stock administration to a substantial degree and makes following of procurement and deals precise. There are various operations in stock which happen at the same time.These incorporate deals through purpose of offer terminals, room administration, refreshments, other room related consumables and durables.</p>

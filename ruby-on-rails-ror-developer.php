@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="contianer padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">ROR Developer</h2>
                       <p>Ruby on Rails, often referred as ROR, is a best known open-source framework that is extensively used for building database driven web apps. ROR is one of the best platforms to develop cloud-ready applications. It is time saving as it is quicker to build Application.</p>

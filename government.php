@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Government</h2>
                       <p>Register an organization if you represent a business (including employers, sole traders and farming organisations), a charity, or other commercial or non-commercial organisation. Services include Electronic VAT Returns and PAYE Online for Employers.</p>

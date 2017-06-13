@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Hotel booking engine</h2>
                       <p>Hotel Booking Engine is an online hotel reservation system. The scripts provides a powerful room booking and reservation management functionality and allows you to install a clear call-to-action tool on your hotel website to impact conversions and increase bookings. Our room booking system is highly customizable and compatible with various websites.</p>

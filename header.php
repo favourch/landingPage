@@ -86,14 +86,14 @@
                     <div id="materialize-menu" class="menuzord">
 
                         <!--logo start-->
-                        <a href="mobile-application-development" class="logo-brand">
+                        <a href="index.php" class="logo-brand">
                             <img src="assets/img/seo/logo.png" alt="" >
                         </a>
                         <!--logo end-->
 
                         <!-- menu start-->
                         <ul class="menuzord-menu pull-right">
-                            <li class="active"><a href="mobile-application-development">Home</a></li>
+                            <li class="active"><a href="index.php">Home</a></li>
                             <li><a href="javascript:void(0)">About Us</a>
                                 <ul class="dropdown">
                                     <li><a href="http://bigperl.com/our-clients/">Our Clients</a></li>

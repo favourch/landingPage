@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Drupal Development</h2>
                       <p>Drupal is a free Content Management System (CMS) that enables you to organize, manage, and publish your content, with ease. Drupal is an open source CMS that is developed and maintained by a huge community of developers and users. Written in PHP, Drupal is an excellent platform to build and publish complex dynamic websites, portals, online communities, and the like. As it contains an open development model, Drupal can be easily customized to power millions of unique websites and applications, across the globe. <br>What We Offer You?</p>

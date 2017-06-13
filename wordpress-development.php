@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Wordpress Development</h2>
                       <p>WordPress is thought to be the most capable Tool for improvement of sites and online journals, which has begun its prevalence since 2003. What’s more, it has become the biggest self-facilitated blogging instrument on the planet, utilized on a large number of locales and saw by a huge number of individuals consistently. WordPress has been utilized limitlessly as a substance administration framework.</p>

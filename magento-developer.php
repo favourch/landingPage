@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Magento Developer</h2>
                       <p>The Magento Commerce platform provides Business owners a powerful marketing (or Advertising) tool with flexibility and control of their eCommerce website. The Magento eCommerce Application is integrated with HTML catalog that helps to gain good rankings preferred (promotes/) by search engines.</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">PhoneGap Application Development</h2>
                       <p>iOS is unique because the technology powering the software is a different platform all by itself. Apple’s commitment towards setting new benchmarks shows clear reflection in IOS. The design, usability, functionality and vision of the software combined with the aesthetics of the phone has set it miles apart from its competitors. The flawless integration of the IOS software with the phone hardware is able to please the toughest of niche customers with varying user biases.</p>

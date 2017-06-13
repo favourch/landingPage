@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Phone Gap Developer</h2>
                       <p>PhoneGap is a mobile application development platform developed by Apache Software Foundation. PhoneGap App Development is a simplified technique of developing applications for platforms, i.e. Windows, Android, iPhone and iPads, Palm, BlackBerry or iOS. With lesser and defined tools, mobile application development on PhoneGap can be developed using only a single code, allowing diverse compatibility for different mobile phones and platforms.</p>

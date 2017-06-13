@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10"><b>Wearable Solutions</b></h2>
                       <p>Today, the whole world is excited hoping the remarkable changes that wearable technology could bring. The giant technology companies, Google, Apple and Samsung, have continued putting a considerable effort to harness the power wearables solutions</p>

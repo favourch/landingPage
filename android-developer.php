@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Android Developer</h2>
                       <p>Android Application is the world’s most popular open source operating system for mobile devices. Android is an open source and the Software Development Kit (SDK) and BigPerl Android application developer can help you convert your dreams into reality.</p>

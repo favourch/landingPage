@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">ADF Developer</h2>
                       <img src="assets/img/adf-architecture.jpg" class="img-responsive " alt="Image">

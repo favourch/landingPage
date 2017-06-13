@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Joomla Development</h2>
                       <p>Joomla website development is a powerful framework for website application development. Our team of highly qualified Joomla developers begins in Bigperl Based in bangalore will provide you with quality, high-end Joomla development. Our Joomla Development team consists of skills, highly proficient and experienced experts with years of experience with Joomla CMS and its latest versions including Joomla 3.0.0.</p>

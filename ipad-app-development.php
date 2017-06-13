@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Ipad App Development</h2>
                       <p>Apple changed the world when it launched the first iPad in 2010 and as of October 2013, 5 generations of iPads have been launched and 170 million iPad have been sold touching millions of lives. Building a powerful and compelling iPad App for your business needs or enterprise needs is imperative.</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">E-Commerce Developer</h2>
                       <p>To have a successful online presence, an appealing and effective E-commerce website is needed. The term E-commerce refers to Electronic commerce i.e. any transactions or conducting business activities while employing the means of any electronic medium which can be any online portal like websites or any social media websites.</p>

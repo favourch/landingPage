@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Magento Development</h2>
                       <p>You have the perfect idea for an eCommerce website? You already have a store to take to the next level?</p>

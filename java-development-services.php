@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Java and J2EE Development</h2>
                       <p>One of the most successful programming language because of its ease to use and platform independence is Java. This is infact the most widely used application programming language in today’s world.</p>

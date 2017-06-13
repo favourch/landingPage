@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Blackberry App Development</h2>
                       <p>Blackberry is known for its security on mobility. This is the reason blackberry is used specifically for business and more commonly known as “Business Phone” . It is very important to deliver top most quality oriented apps for business users.</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Facebook App Development</h2>
                       <p>Do you want to maximize your social media presence? Go for a Facebook App! In today’s world where everyone that you know is on Facebook it becomes very much necessary to promote your business on Facebook. Nevertheless, the promotional guidelines of Facebook have made it mandatory for businesses to own Facebook Apps. Through a Facebook App you can easily conduct contests, interact with your customers and inform consumers about your business, product or services, without coming across as spam.</p>

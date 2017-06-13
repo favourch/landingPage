@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">PHP Developer</h2>
                       <p>PHP is a dynamic, open source scripting language that can be directly embedded into HTML code for corporate applications and web development. Specially intended for server side web development where it runs on web server.</p>

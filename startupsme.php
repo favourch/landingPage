@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Startup SME</h2>
                       <p>Small and medium-sized enterprises (SMEs; sometimes also small and medium enterprises) or small and medium-sized businesses (SMBs)</p>

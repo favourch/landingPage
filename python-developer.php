@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Python Developer</h2>
                       <p>We develop and manage applications with technologies such as MySQL, Django, frameworks PyGTK, PyQT for User Interface design, wxPython, PostgreSQL, MSSQL.</p>

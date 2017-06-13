@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Responsive Web Development</h2>
                       <p>The users base for smartphones are increasing rapidly every now and then, almost every clients expects to have mobile version of their website. Within the web design and development platform, creating a website and making it compatible for website version of new devices is challenging task. Implementing responsive web design it new trend that makes the websites to be compatible and responsive hence making users to keep in a highly engaging environment. To provide responsive environment it is required to mix flexible blend of technology, to incorporate effective features. As the user switches to and fro from one device to other the design and development has to be made compatible to all devices. It is not necessary to create a compatible website individually for many devices, rather it is better to build one that can run well on all platforms and devices.</p>

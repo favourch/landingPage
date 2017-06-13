@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">CMS Development</h2>
                       <p>Content Management System (CMS) is a simple system that enables you to manage the content of a website. Using CMS you can create edit and modify content, add and remove images, update and manage unlimited content pages, and then publish the content. Once published, content can be easily updated and republished. It also allows you to maintain the entire content from a single back-end central interface.</p>

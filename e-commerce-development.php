@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">E-Commerce Development</h2>
                       <p>e-commerce web development has indeed become a necessity instead of a means to drive greater traffic. We, at Bigperl Private Solutions, one of the pioneered web development companies,offer efficacious and effectual e-commerce web design, plug-in & module development solutions for small and medium level enterprises. Having intense love for web designing and development, our skilled and talented professionals remain abreast with the current industry trends to deliver prolific results. With the ineffable experience, our competent developers create customized e-commerce website to promote your brand effectively while bringing success as well as online sales.</p>

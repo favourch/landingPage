@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Hotel Management System</h2>
                       <p>To succeed in your business, independent hoteliers need a comprehensive solution that is flexible and agile.</p>

@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Windows Application Development</h2>
                       <p>Windows Phones are on track of being one of the most popular smart phones on the market today. Ever since September of 2010, we have been using the SDK for Windows mobile application development and have mastered it successfully.</p>

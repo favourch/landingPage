@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Web Application Developer</h2>
                       <p>Web Application Development is the creation and maintenance of application software that resides on servers and is delivered to the end user device over the Internet used on the World Wide Web.</p>

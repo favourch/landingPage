@@ -20,7 +20,7 @@
 
 		<?php include 'header1.php' ?>
 
-              <div class="row padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Python Development</h2>
                       <p>Bigperl Solutions Pvt Ltd has a rich experience in developing dynamic websites, custom web applications and Desktop Applications in Python and Django. We have been in business of custom software development for 6 years and we are a specialist in Small-Team Software Development by following Agile Methods.</p>
