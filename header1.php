@@ -1,5 +1,4 @@
-
-        <section class="section-padding container">
+<section class="section-padding container">
             <div class="container">
               <div class="text-center">
                   <h2 class="section-title text-uppercase" style="margin-bottom: 5px;">What we do</h2>
@@ -68,4 +67,5 @@
                       </div><!-- /.featured-box  -->
                   </div><!-- /.col-md-3 -->
               </div><!-- /.row -->
-              </div></section>
+              </div>
+</section>
