@@ -206,7 +206,6 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     style="z-index: 7; white-space: nowrap;margin-top: 50px;">
-                    <a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
                 </div>
 
                 <!-- LAYER NR. 4 -->
@@ -289,7 +288,6 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     style="z-index: 7; white-space: nowrap;margin-top: 50px;">
-                    <a href="#" class="btn btn-lg  waves-effect waves-light">Explore More</a>
                 </div>
 
                 <!-- LAYER NR. 4 -->
