@@ -29,7 +29,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/services/java_j2ee_development_bigperl.png" class="img-responsive " alt="java_j2ee_development_bigperl">
                   </div>
               </div>
             </div><!-- /.container -->

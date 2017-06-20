@@ -10,7 +10,7 @@
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Services</a></li>
-                            <li class="active">ROR developer</li>
+                            <li class="active">ruby on rails development</li>
                         </ol>
                     </div>
                 </div>
@@ -18,9 +18,9 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+        <img src="assets/img/banners/ROR_developer_bigperl_banner.png" alt="ROR_developer_bigperl_banner" height="200" width="100%">
 
-              <div class="contianer padding-top-20">
+              <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">ROR Developer</h2>
                       <p>Ruby on Rails, often referred as ROR, is a best known open-source framework that is extensively used for building database driven web apps. ROR is one of the best platforms to develop cloud-ready applications. It is time saving as it is quicker to build Application.</p>
@@ -41,7 +41,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/services/ROR_developer_bigperl.png" class="img-responsive " alt="ROR_developer_bigperl">
                   </div>
               </div>
             </div><!-- /.container -->

@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/banners/magento_developer_bigperl_banner.png" alt="magento_developer_bigperl_banner" height="200" width="100%">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -51,7 +51,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/services/magento_developer_bigperl.png" class="img-responsive " alt="magento_developer_bigperl">
                   </div>
               </div>
             </div><!-- /.container -->

@@ -53,6 +53,11 @@
     content: "\00BB \0020";
 }
 
+#btnpad{
+    line-height: 3.5px;
+    padding: 28px;
+    padding-left: 20px;
+}
 
 /* ================= General ==================== */
 
@@ -61,14 +66,33 @@
     color: white;
     border: 1px solid white;
     padding: 10px;
+    float: right;
 }
     
 .button-style .btn-floating i {
     height: auto !important;
 }
 
-#inputs:focus {
-    border: 1px solid white;
+#inputs {
+    width: 57%;
+    background-color: lightcyan;
+    padding: 21px;
+    color: black;
+    border-radius: 5px;
+}
+
+#inputs:focus{
+    border: hidden !important;
+}
+
+#inputbtnstyle{
+    position: absolute;
+    margin-left: -62px;
+    margin-top: 1px;
+}
+
+#btnwidth{
+    width: 100%;
 }
 
 .tex{
@@ -93,11 +117,6 @@
     z-index: 10000;
     margin: 5px;
 }
-
-
-
-
-
 
 .owl-prev {
     margin-left: -3em !important;
@@ -861,7 +880,7 @@ thead {
     background-color: #fff !important;
 }
 .gray-bg {
-    background-color: #f5f5f5!important;
+    background-color: #dddddd!important;
 }
 .light-gray-bg {
     background-color: #f3f3f3 !important;
@@ -1083,6 +1102,11 @@ thead {
         width: 100%;
     }
 
+    #btnwidth{
+    width: 100%;
+    height: auto;
+}
+
 }
 
 
@@ -1263,7 +1287,7 @@ thead {
     background-image: url("assets/img/banner/banner-9.jpg");  
 }
 .banner-10 {
-    background-image: url("assets/img/banner-10.jpg");  
+    background-image: url("assets/img/banner_10_bigperl.jpg");  
 }
 .banner-11 {
     background-image: url("assets/img/banner/banner-11.jpg");  

@@ -11,11 +11,7 @@
         <title>Bigperl Private Solutions Ltd</title>
 
         <!--  favicon -->
-        <link rel="shortcut icon" href="assets/img/ico/favicon.png">
-        <!--  apple-touch-icon -->
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/ico/apple-touch-icon-144-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="shortcut icon" href="assets/img/ico/favicon_bigperl.png">
         <link rel="apple-touch-icon-precomposed" href="assets/img/ico/apple-touch-icon-57-precomposed.png">
 
         <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
@@ -64,13 +60,13 @@
                   <div class="col-md-6 text-right">
                     <ul class="topbar-cta no-margin">
                       <li class="mr-20">
-                        <a><i class="material-icons mr-10">&#xE0B9;</i>info@bigperl.com</a>
+                        <a><i class="material-icons mr-10">comment</i>info@bigperl.com</a>
                       </li>
                       <li class="mr-20">
-                        <a><img src="assets/img/india.png" height="25px" width="auto"> +91 1800-200-5215</a>
+                        <a><img alt="india-bigperl" src="assets/img/india-bigperl.png"> +91 1800-200-5215</a>
                       </li>
                       <li>
-                        <a><img src="assets/img/us.png"  height="25px" width="auto"> +1 253-656-5033</a>
+                        <a><img alt="us-bigperl" src="assets/img/us-bigperl.png"> +1 253-656-5033</a>
                       </li>
                     </ul>
                   </div>
@@ -87,7 +83,7 @@
 
                         <!--logo start-->
                         <a href="index.php" class="logo-brand">
-                            <img src="assets/img/seo/logo.png" alt="" >
+                            <img src="assets/img/seo/logo_bigperl.png" alt="logo_bigperl" >
                         </a>
                         <!--logo end-->
 
@@ -223,6 +219,5 @@
 
                     </div>
                 </div>
-            </div>
         </header>
         <!--header end-->

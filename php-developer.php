@@ -35,7 +35,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/services/php_developer_bigperl.png" class="img-responsive " alt="php_developer_bigperl">
                   </div>
               </div>
             </div><!-- /.container -->

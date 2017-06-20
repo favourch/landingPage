@@ -5683,6 +5683,8 @@ ul.tabs li.tab {
  * https://github.com/fians/Waves/blob/master/LICENSE
  */
 .waves-effect {
+  line-height: 20px;
+  border-radius: 12px;
   position: relative;
   cursor: pointer;
   display: inline-block;

@@ -1,5 +1,4 @@
-        <section class="section-padding">
-            <div class="position5">
+           <div class="position5">
                 <div class="panel panel-success">
                     <div class="panel-body">
                         <div class="row">
@@ -39,14 +38,13 @@
                     </div>                   
                 </div>
             </div>
-            <button class="waves-effect waves-circle waves-light btn-floating btn-large blue position2"><i class="material-icons">comment</i></button>
-        </section>
+            <button class="waves-effect waves-circle waves-light btn-floating btn-large blue position2"><i class="material-icons" id="btnpad">comment</i></button>
         <!--footer 1 start -->
         <footer class="footer footer-one">
             <div class="primary-footer brand-bg">
                 <div class="container">
                     <a href="#top" class="page-scroll btn-floating btn-large pink back-top waves-effect waves-light tt-animate btt" data-section="#top" style="margin-top: 80px;">
-                      <i class="material-icons">&#xE316;</i>   
+                      <i class="material-icons">keyboard_arrow_up</i>   
                     </a>
 
                     <div class="row">
@@ -92,7 +90,7 @@
                         <div class="col-md-3 widget">
                             <h2 class="white-text">Subcribe Widget</h2>
 
-                            <form  method="post" id="contactForm2" name="contact-form">
+                            <form  method="post" id="contactForm6" name="contact-form">
                               <div class="form-group clearfix">
                                 <label class="sr-only" for="subscribe">Email address</label>
                                 <input type="email" class="form-control" name="email" id="subscribe" placeholder="Email address">
@@ -143,21 +141,7 @@
         <!-- RS5.0 Core JS Files -->
         <script src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
         <script src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function(){
-               $(".position5").hide();
-               $(".position2").show();
-                $('.position2').click(function(){
-                $(".position5").slideToggle();
-              });
-            });
-
-            $(".waves-circle i").click(function(){
-                $(this).text(function(i, text){
-                    return text === "close" ? "comment" : "close";
-                })
-            });
-        </script>
+        
         <script>
         $('#contactForm').on('submit',function(e){
           e.preventDefault();
@@ -261,7 +245,57 @@
           });
           
         });
-      
+        $('#contactForm5').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contact.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm6').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contactus.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
     </script>
         <script type="text/javascript">
             //  owlcarousel2 slider testmonials
@@ -302,9 +336,29 @@
                 margin : 30,
                 nav    : true,
                 smartSpeed :900,
-                navText : ["<i class='fa fa-chevron-left position'></i>","<i class='fa fa-chevron-right position1'></i>"],
+                navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
                 autoplay: true,
                 autoplayTimeout: 3000
+            });
+
+            $('#customers-carousel2').owlCarousel({
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 3
+                    },
+                    1000: {
+                        items: 4
+                    }
+                },
+                loop  : true,
+                margin : 30,
+                nav    : false,
+                smartSpeed :500,
+                autoplay: true,
+                autoplayTimeout: 2000
             });
 
 
@@ -372,5 +426,20 @@
         <script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
         <script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
         <script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+               $(".position5").hide();
+               $(".position2").show();
+                $('.position2').click(function(){
+                $(".position5").slideToggle();
+              });
+            });
+
+            $(".waves-circle i").click(function(){
+                $(this).text(function(i, text){
+                    return text === "close" ? "comment" : "close";
+                })
+            });
+        </script>
     </body>
 </html>

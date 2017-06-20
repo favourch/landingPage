@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/banners/internet-of-things_(iot)_bigperl_banner.png" alt="internet-of-things_(iot)_bigperl_banner" height="200" width="100%">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -35,7 +35,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/services/Internet_of_Things_(IoT)_bigperl.png" class="img-responsive " alt="Internet_of_Things_(IoT)_bigperl">
                   </div>
               </div>
             </div><!-- /.container -->
