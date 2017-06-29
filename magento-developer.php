@@ -18,12 +18,12 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/magento_developer_bigperl_banner.png" alt="magento_developer_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/magento_developer_bigperl_banner.png" alt="magento_developer_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Magento Developer</h2>
-                      <p>The Magento Commerce platform provides Business owners a powerful marketing (or Advertising) tool with flexibility and control of their eCommerce website. The Magento eCommerce Application is integrated with HTML catalog that helps to gain good rankings preferred (promotes/) by search engines.</p>
+                      <p class="text-justified">The Magento Commerce platform provides Business owners a powerful marketing (or Advertising) tool with flexibility and control of their eCommerce website. The Magento eCommerce Application is integrated with HTML catalog that helps to gain good rankings preferred (promotes/) by search engines.</p>
                       <p><b>Services offered by BigPerl :</b></p>
                       <ol>
                         <li>Magento website development and customization.</li>
@@ -54,8 +54,6 @@
                       <img src="assets/img/services/magento_developer_bigperl.png" class="img-responsive " alt="magento_developer_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

@@ -23,14 +23,12 @@
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Startup SME</h2>
-                      <p>Small and medium-sized enterprises (SMEs; sometimes also small and medium enterprises) or small and medium-sized businesses (SMBs)</p>
+                      <p class="text-justified">Small and medium-sized enterprises (SMEs; sometimes also small and medium enterprises) or small and medium-sized businesses (SMBs)</p>
                   </div>
                   <div class="col-md-5">
                       <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

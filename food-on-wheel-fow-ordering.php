@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/products/banner/food_on_wheel_bigperl.png" class="fullwidth" alt="food_on_wheel_bigperl">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -26,11 +26,9 @@
                       
                   </div>
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/products/food_on_wheel_bigperl.png" class="img-responsive " alt="food_on_wheel_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

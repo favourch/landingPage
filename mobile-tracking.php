@@ -6,7 +6,7 @@
             <div class="container padding-top-40">
                 <div class="row">
                     <div class="col-md-12">
-                        <h6 style="float: right;margin-bottom: -5px;">Services</h6>
+                        <h6 style="float: right;margin-bottom: -5px;">products</h6>
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">products</a></li>
@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/products/banner/gps_mobile_tracking_bigperl.png" class="fullwidth" alt="gps_mobile_tracking_bigperl">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -27,11 +27,9 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/products/gps_bigperl.png" class="img-responsive " alt="gps_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

@@ -45,6 +45,83 @@
 @import url(https://fonts.googleapis.com/css?family=Great+Vibes);
 
 
+/*Careers page starts*/
+
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 50%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 500px;
+    line-height: 2em;
+    border: 1px solid #ccc;
+    overflow: scroll;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a.header {
+  background-color: #e2e2e2;
+  cursor: default;
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+
+/*careers page ends*/
+
+#customers-carousel2.owl-theme .owl-controls .owl-nav [class*=owl-] {
+    color: black;
+    font-size: 18px;
+    font-weight: lighter;
+    margin: 5px;
+    padding: 8px 12px 8px 12px;
+    background: #d6d6d6;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-top: -5.5em;
+}
+
+.borderright{
+    border-right: 1px solid black;
+}
+
+.fullmap{
+    width: auto;
+    height: 280px;
+}
+
+
 #liststyle{
     list-style: none;
 }
@@ -74,11 +151,23 @@
 }
 
 #inputs {
-    width: 57%;
+    width: 36%;
     background-color: lightcyan;
     padding: 21px;
     color: black;
     border-radius: 5px;
+}
+
+#inputs1 {
+    width: 36%;
+    background-color: lightcyan;
+    padding: 21px;
+    color: black;
+    border-radius: 5px;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
 }
 
 #inputs:focus{
@@ -92,7 +181,7 @@
 }
 
 #btnwidth{
-    width: 100%;
+    width: 50%;
 }
 
 .tex{
@@ -130,6 +219,11 @@
 .owl-next {
     margin-right: -3em !important;
     float: right;
+}
+
+.fullwidth{
+    height: auto;
+    width: 100%;
 }
 
 
@@ -1069,8 +1163,8 @@ thead {
 
 .section-title {
     font-size: 40px;
-    margin-bottom: 20px;
-    padding-top: 20px;
+    margin-bottom: 5px;
+    padding-top: 5px;
 }
 .section-sub {
     margin: 0 auto;
@@ -2250,6 +2344,8 @@ KEY FRAME
     .sticky .search-trigger.light.semidark i {
         color: #fff;
     }
+
+
 }
 
 .search-trigger i:hover {
@@ -2416,6 +2512,10 @@ KEY FRAME
     .search-trigger i {
         line-height: 48px;
     }
+
+    .borderright{
+        border-right: none;
+    }
     .search-trigger .search-btn {
         margin-top: 6px;
     }
@@ -2455,6 +2555,16 @@ KEY FRAME
     }
     .owl-dots{
     display: block !important;
+}
+.position5{
+    position:fixed;
+    width:300px;
+    padding: 1em;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    margin-bottom: 2.5em;
+
 }
 
 }

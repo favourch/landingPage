@@ -18,15 +18,15 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/magento_development_bigperl_banner.png" alt="magento_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/magento_development_bigperl_banner.png" alt="magento_development_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Magento Development</h2>
-                      <p>You have the perfect idea for an eCommerce website? You already have a store to take to the next level?</p>
+                      <p class="text-justified">You have the perfect idea for an eCommerce website? You already have a store to take to the next level?</p>
                       <p>Either way, be rest assured we’ll get it done. We are the master chefs of Magento having deep experience crafting beautiful and scalable shopping websites.</p>
-                      <p>Bigperl believes that an E-Commerce can be successful if it’s tailored to meet the requirements of both the trading and the client’s side. The Magento website development platform gives us the freedom to customize the website in best possible manner to suit your requirements.</p>
-                        <p>As professional web designers and developers we keep researching a lot on latest technologies and platforms available and Magento is also a result of this research. We at Bigperl found Magento Ecommerce development to be successful and powerful platform because of the following reasons:</p>
+                      <p class="text-justified">Bigperl believes that an E-Commerce can be successful if it’s tailored to meet the requirements of both the trading and the client’s side. The Magento website development platform gives us the freedom to customize the website in best possible manner to suit your requirements.</p>
+                      <p class="text-justified">As professional web designers and developers we keep researching a lot on latest technologies and platforms available and Magento is also a result of this research. We at Bigperl found Magento Ecommerce development to be successful and powerful platform because of the following reasons:</p>
                       <ul>
                         <li>Effortlessly customizable to meet the requirements.</li>
                         <li>It supports number of gateways for payment.</li>
@@ -41,8 +41,6 @@
                       <img src="assets/img/services/magento_development_bigperl.png" class="img-responsive " alt="magento_development_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

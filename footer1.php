@@ -1,7 +1,7 @@
-    <section class="padding-top-20 padding-bottom-10 brand-bg">
+        <section class="padding-top-20 padding-bottom-10 brand-bg">
           <div class="container">
             <div class="text-center">
-                <button class="waves-effect waves-light btn-large blue" data-toggle="modal" data-target="#myModals"><i class="material-icons">lightbulb_outline</i>Get free consultation from our Experts</button>
+                <button class="waves-effect waves-light btn-large blue" id="btnwidth" data-toggle="modal" data-target="#myModals"><img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-right: 13px;">Get free consultation from our Experts <img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-left: 10px;"></button>
                 <div class="modal fade" id="myModals" tabindex="-1" role="dialog" style="width: 100%;min-height: 100%;background-color: transparent;">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -12,7 +12,7 @@
                                       <div class="modal-body">
                                             <div class="row">
                                             <div class="col-md-12">
-                                                <form method="post" id="contactForm" name="contact-form">
+                                                <form method="post" id="contactForm5" name="contact-form">
                                                   <div class="row">
                                                     <div class="col-md-6">
                                                       <div class="input-field">
@@ -97,50 +97,30 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <img src="assets/img/node-logo.png" alt="">
+                          <img src="assets/img/angular_logo_bigperl.png" alt="angular_logo_bigperl">
                       </div>
                       <div class="desc">
-                          <h2>We are creative</h2>
+                          <h2>Angular Js</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
                       </div>
                   </div><!-- /.featured-item -->
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <img src="assets/img/anguler-logo.png" alt="">
+                          <img src="assets/img/node_logo_bigperl.png" alt="node_logo_bigperl">
                       </div>
                       <div class="desc">
-                          <h2>We are creative</h2>
+                          <h2>Node JS</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
                       </div>
                   </div><!-- /.featured-item -->
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <img src="assets/img/material-logo.png" alt="">
+                          <img src="assets/img/material_logo_bigperl.png" alt="material_logo_bigperl">
                       </div>
                       <div class="desc">
-                          <h2>We are creative</h2>
-                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                      </div>
-                  </div><!-- /.featured-item -->
-
-                  <div class="featured-item border-box radius-4 hover brand-hover">
-                      <div class="icon mb-30">
-                          <img src="assets/img/node-logo.png" alt="">
-                      </div>
-                      <div class="desc">
-                          <h2>We are creative</h2>
-                          <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
-                      </div>
-                  </div><!-- /.featured-item -->
-
-                  <div class="featured-item border-box radius-4 hover brand-hover">
-                      <div class="icon mb-30">
-                          <img src="assets/img/material-logo.png" alt="">
-                      </div>
-                      <div class="desc">
-                          <h2>We are creative</h2>
+                          <h2>materialize CSS</h2>
                           <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque pulvinar vitae.</p>
                       </div>
                   </div><!-- /.featured-item -->
@@ -152,14 +132,14 @@
             </div>
         </section><br>
 
-        <section class="padding-top-20 padding-bottom-10 brand-bg">
+        <div class="padding-top-20 padding-bottom-10 brand-bg">
             <div class="text-center">
-                <form  method="post" id="contactForm2" name="contact-form">
-                    <input type="email" name="email" placeholder="Subscribe to Newsletter" style="width: 30%;background-color: lightcyan;padding: 19px;border-radius: 5px;color: black;border-radius: 5px 0px 0px 5px" id="inputs">
-                    <button class="btn btn-sm indigo" name="submit" style="position: absolute;margin-left: -1px;"><i class="material-icons">send</i></button>
+                <form method="post" id="contactForm2" name="contact-form">
+                    <input type="email" name="email" placeholder="Subscribe to Newsletter" id="inputs">
+                    <button class="btn btn-sm indigo" name="submit" id="inputbtnstyle"><i class="material-icons">send</i></button>
                 </form>
             </div>
-        </section>
+          </div><!-- /.container -->
         
         <section class="section-padding">
             <div id="customer-banner">
@@ -636,6 +616,58 @@
           $.ajax({
             method : 'post',
             url:'contactus.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm7').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contactnew.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm8').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contact.php?'+dataresult,
             data: {name:$('#name').val()},
             datatype:'json',
             success:function(data){

@@ -15,10 +15,6 @@
             </div>
         </section>
         <!--page title end-->
-
-
-
-        <section>
             <div class="container">
               <div class="row">
                 <div class="col-md-12">
@@ -43,19 +39,19 @@
                               <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
                           </div>
                           <div role="tabpanel" class="tab-pane fade" id="tab-2">
-                              <img class="alignleft" src="assets/img/busy_man.png" alt="">
+                              <img class="alignleft" src="assets/img/busy_man_bigperl.png" alt="">
                               <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit sem vestibulum curabitur</a> a vel aliquet gravida ullamcorper amet dictumst vestibulum a elementum proin id volutpat magna parturient. Id ac dui libero a ullamcorper euismod himenaeos a nam condimentum a adipiscing dapibus lobortis iaculis morbi.</p>
 
                               <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
                           </div>
                           <div role="tabpanel" class="tab-pane fade" id="tab-3">
-                              <img class="alignleft" src="assets/img/mission.png" alt="">
+                              <img class="alignleft" src="assets/img/mission_bigperl.png" alt="">
                               <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit sem vestibulum curabitur</a> a vel aliquet gravida ullamcorper amet dictumst vestibulum a elementum proin id volutpat magna parturient. Id ac dui libero a ullamcorper euismod himenaeos a nam condimentum a adipiscing dapibus lobortis iaculis morbi.</p>
 
                               <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
                           </div>
                           <div role="tabpanel" class="tab-pane fade" id="tab-4">
-                              <img class="alignleft" src="assets/img/business.png" alt="">
+                              <img class="alignleft" src="assets/img/business_bigperl.png" alt="">
                               <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit sem vestibulum curabitur</a> a vel aliquet gravida ullamcorper amet dictumst vestibulum a elementum proin id volutpat magna parturient. Id ac dui libero a ullamcorper euismod himenaeos a nam condimentum a adipiscing dapibus lobortis iaculis morbi.</p>
 
                               <p>Himenaeos a vestibulum morbi. <a href="#">Ullamcorper cras scelerisque</a> taciti lorem metus feugiat est lacinia facilisis id nam leo condimentum praesent id diam. Vestibulum amet porta odio elementum convallis parturient tempor tortor tempus a mi ad parturient ad nulla mus amet in penatibus nascetur at vulputate euismod a est tristique scelerisque. Aliquet facilisis nisl vel vestibulum dignissim gravida ullamcorper hac quisque ad at nisl egestas adipiscing vel blandit.</p>
@@ -68,7 +64,6 @@
                 </div><!-- /.col-md-12 -->
               </div><!-- /.row -->
             </div><!-- /.container -->
-        </section>
 
 
         <hr>
@@ -85,7 +80,7 @@
               <div class="featured-carousel brand-dot">
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE32A;</i>
+                          <i class="material-icons brand-icon">security</i>
                       </div>
                       <div class="desc">
                           <h2>We are creative</h2>
@@ -95,7 +90,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE851;</i>
+                          <i class="material-icons brand-icon">account_box</i>
                       </div>
                       <div class="desc">
                           <h2>We are awesome</h2>
@@ -105,7 +100,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE8AF;</i>
+                          <i class="material-icons brand-icon">question_answer</i>
                       </div>
                       <div class="desc">
                           <h2>We are Taltented</h2>
@@ -115,7 +110,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE91D;</i>
+                          <i class="material-icons brand-icon">pets</i>
                       </div>
                       <div class="desc">
                           <h2>We are secured</h2>
@@ -125,7 +120,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE8CB;</i>
+                          <i class="material-icons brand-icon">shopping_basket</i>
                       </div>
                       <div class="desc">
                           <h2>We are Pationate</h2>
@@ -135,7 +130,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE8DC;</i>
+                          <i class="material-icons brand-icon">thumb_up</i>
                       </div>
                       <div class="desc">
                           <h2>We are Developer</h2>
@@ -145,7 +140,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE02C;</i>
+                          <i class="material-icons brand-icon">movie</i>
                       </div>
                       <div class="desc">
                           <h2>We are Designer</h2>
@@ -155,7 +150,7 @@
 
                   <div class="featured-item border-box radius-4 hover brand-hover">
                       <div class="icon mb-30">
-                          <i class="material-icons brand-icon">&#xE0BE;</i>
+                          <i class="material-icons brand-icon">email</i>
                       </div>
                       <div class="desc">
                           <h2>We are Expert</h2>
@@ -183,26 +178,26 @@
                   <!-- Nav tabs -->
                   <ul class="nav nav-tabs nav-justified" role="tablist">
                       <li class="active">
-                          <a href="#team-1" data-toggle="tab">
-                            <img src="assets/img/team/team-1.jpg" class="img-responsive" alt="Image">
+                          <a href="#team_1_bigperl" data-toggle="tab">
+                            <img src="assets/img/team/team_1_bigperl.jpg" class="img-responsive" alt="team_1_bigperl">
                           </a>
                       </li>
 
                       <li>
-                          <a href="#team-2" data-toggle="tab">
-                              <img src="assets/img/team/team-2.jpg" class="img-responsive" alt="Image">
+                          <a href="#team_2_bigperl" data-toggle="tab">
+                              <img src="assets/img/team/team_2_bigperl.jpg" class="img-responsive" alt="team_2_bigperl">
                           </a>
                       </li>
 
                       <li>
-                          <a href="#team-3" data-toggle="tab">
-                              <img src="assets/img/team/team-3.jpg" class="img-responsive" alt="Image">
+                          <a href="#team_3_bigperl" data-toggle="tab">
+                              <img src="assets/img/team/team_3_bigperl.jpg" class="img-responsive" alt="team_3_bigperl">
                           </a>
                       </li>
 
                       <li>
-                          <a href="#team-4" data-toggle="tab">
-                              <img src="assets/img/team/team-4.jpg" class="img-responsive" alt="Image">
+                          <a href="#team_4_bigperl" data-toggle="tab">
+                              <img src="assets/img/team/team_4_bigperl.jpg" class="img-responsive" alt="team_4_bigperl">
                           </a>
                       </li>
                   </ul>
@@ -210,11 +205,11 @@
                   <!-- Tab panes -->
                   <div class="panel-body">
                     <div class="tab-content">
-                      <div role="tabpanel" class="tab-pane fade in active" id="team-1">
+                      <div role="tabpanel" class="tab-pane fade in active" id="team_1_bigperl">
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="assets/img/team/team-large-1.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team_large_1_bigperl.png" class="img-responsive" alt="team_large_1_bigperl">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -305,11 +300,11 @@
                           </div> <!-- row -->
                       </div> <!--team-1 end-->
 
-                        <div role="tabpanel" class="tab-pane fade" id="team-2">
+                        <div role="tabpanel" class="tab-pane fade" id="team_2_bigperl">
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="assets/img/team/team-large-2.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team_large_2_bigperl.png" class="img-responsive" alt="team_large_2_bigperl">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -400,11 +395,11 @@
                           </div> <!-- row -->
                         </div> <!--team-2 end -->
 
-                        <div role="tabpanel" class="tab-pane fade" id="team-3">
+                        <div role="tabpanel" class="tab-pane fade" id="team_3_bigperl">
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="assets/img/team/team-large-3.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team_large_3_bigperl.png" class="img-responsive" alt="team_large_3_bigperl">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -495,11 +490,11 @@
                           </div> <!-- row -->
                         </div> <!--team-3 end -->
 
-                        <div role="tabpanel" class="tab-pane fade" id="team-4">
+                        <div role="tabpanel" class="tab-pane fade" id="team_4_bigperl">
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="assets/img/team/team-large-4.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team_large_4_bigperl.png" class="img-responsive" alt="team_large_4_bigperl">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -601,9 +596,7 @@
 
         <hr>
 
-
-        <section class="section-padding">
-          <div class="container">
+          <div class="container padding-top-20 padding-bottom-20">
 
               <div class="row">
                 <div class="col-md-8 col-md-offset-2">
@@ -669,6 +662,5 @@
               </div><!-- /.row -->
 
           </div><!-- /.container -->
-        </section>
 
 <?php include 'footer.php' ?>

@@ -15,6 +15,7 @@
         <link rel="apple-touch-icon-precomposed" href="assets/img/ico/apple-touch-icon-57-precomposed.png">
 
         <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="assets/css/skins/corporate.css">
         <!-- Material Icons CSS -->
         <link href="assets/fonts/iconfont/material-icons.css" rel="stylesheet">
         <!-- FontAwesome CSS -->
@@ -60,13 +61,13 @@
                   <div class="col-md-6 text-right">
                     <ul class="topbar-cta no-margin">
                       <li class="mr-20">
-                        <a><i class="material-icons mr-10">comment</i>info@bigperl.com</a>
+                        <a href="mailto:info@bigperl.com"><i class="material-icons mr-10">comment</i>info@bigperl.com</a>
                       </li>
                       <li class="mr-20">
-                        <a><img alt="india-bigperl" src="assets/img/india-bigperl.png"> +91 1800-200-5215</a>
+                        <a><img alt="india-bigperl" src="assets/img/india-bigperl.png">+91-1800-200-5215</a>
                       </li>
                       <li>
-                        <a><img alt="us-bigperl" src="assets/img/us-bigperl.png"> +1 253-656-5033</a>
+                        <a><img alt="us-bigperl" src="assets/img/us-bigperl.png">+1 (253)-656-5033</a>
                       </li>
                     </ul>
                   </div>
@@ -75,11 +76,11 @@
             </div><!-- /.top-bar -->
             <div class="header-sticky light-header ">
 
-                <div class="container">
+                <div class="container-fluid">
                     
-                </div>
+                
 
-                    <div id="materialize-menu" class="menuzord">
+                    <div id="materialize-menu" class="menuzord menuzord-responsive">
 
                         <!--logo start-->
                         <a href="index.php" class="logo-brand">
@@ -88,24 +89,50 @@
                         <!--logo end-->
 
                         <!-- menu start-->
-                        <ul class="menuzord-menu pull-right">
+                        <ul class="menuzord-menu pull-right  menuzord-indented">
                             <li class="active"><a href="index.php">Home</a></li>
                             <li><a href="javascript:void(0)">About Us</a>
                                 <ul class="dropdown">
-                                    <li><a href="http://bigperl.com/our-clients/">Our Clients</a></li>
+                                    <li><a href="our-clients.php">Our Clients</a></li>
                                     <li><a href="about-us.php">Success Stories</a></li>
-                                    <li><a href="http://bigperl.com/blogs/">Blogs</a></li>
-                                    <li><a href="http://bigperl.com/awards-recognition-certificate/">Recongnition</a></li>
-                                    <li><a href="http://bigperl.com/faq/">News Room</a></li>
+                                    <li><a href="#">Blogs</a></li>
+                                    <li><a href="#">Recongnition</a></li>
+                                    <li><a href="#">News Room</a></li>
                                 </ul>
                             </li>
                             <li><a href="javascript:void(0)">Industry</a>
-                                <ul class="dropdown">
-                                    <li><a href="startupsme.php">Startup / SME</a></li>
-                                    <li><a href="enterprise-it.php">Enterprise IT</a></li>
-                                    <li><a href="architectureit.php">Architecture IT</a></li>
-                                    <li><a href="government.php">Government IT</a></li>
-                                </ul>
+                                <div class="megamenu">
+                                    <div class="megamenu-row">
+                                        <div class="col4">
+                                            <ul class="list-unstyled clearfix">
+                                                <li><a href="automative.php">Automative</a></li>
+                                                <li><a href="digitalmarketing.php">Digital Marketing</a></li>
+                                                <li><a href="hospitality.php">Hospitality</a></li>
+                                                <li><a href="media-entertainment.php">Media & Entertainment</a></li>
+                                                <li><a href="real-estate.php">Real Estate</a></li>
+                                                <li><a href="social-computing.php">Social Computing</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col4">
+                                            <ul class="list-unstyled clearfix">
+                                                <li><a href="banking-financial.php">Banking & Financial</a></li>
+                                                <li><a href="education.php">Education</a></li>
+                                                <li><a href="it.php">IT</a></li>
+                                                <li><a href="manufacturing.php">Manufacturing</a></li>
+                                                <li><a href="telecom.php">Telecom</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col4">
+                                            <ul class="list-unstyled clearfix">
+                                                <li><a href="consumer-electronics.php">Consumer Electronics</a></li>
+                                                <li><a href="government.php">Government</a></li>
+                                                <li><a href="life-science-healthcare.php">Life Science & Healthcare</a></li>
+                                                <li><a href="retail-and-consumer.php">Retail and consumer</a></li>
+                                                <li><a href="travel-transport-log.php">TravelTransport & Log</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                             </li>
                             <li><a href="javascript:void(0)">Services</a>
                                 <div class="megamenu">
@@ -211,13 +238,14 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="http://bigperl.com/portfolio/">Portfolio</a></li>
-                            <li><a href="http://bigperl.com/careers/">Careers</a></li>
+                            <li><a href="portfolio.php">Portfolio</a></li>
+                            <li><a href="careers.php">Careers</a></li>
                             <li><a href="contact-us.php">Contact</a></li>
                         </ul>
                         <!-- menu end-->
 
                     </div>
+                </div>
                 </div>
         </header>
         <!--header end-->

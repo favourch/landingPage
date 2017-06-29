@@ -18,12 +18,12 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/python_developer_bigperl_banner.png" alt="python_developer_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/python_developer_bigperl_banner.png" alt="python_developer_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Python Developer</h2>
-                      <p>We develop and manage applications with technologies such as MySQL, Django, frameworks PyGTK, PyQT for User Interface design, wxPython, PostgreSQL, MSSQL.</p>
+                      <p class="text-justified">We develop and manage applications with technologies such as MySQL, Django, frameworks PyGTK, PyQT for User Interface design, wxPython, PostgreSQL, MSSQL.</p>
                       <p><b>Benefits with Python development:</b></p>
                       <ol>
                         <li>Easy to write, maintain and integrate.</li>
@@ -44,9 +44,6 @@
                       <img src="assets/img/services/python_developer_bigperl.png" class="img-responsive " alt="python_developer_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
-
         
 
 <?php include 'footer1.php'; ?>

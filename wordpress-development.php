@@ -18,14 +18,14 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/wordpress_development_bigperl_banner.png" alt="wordpress_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/wordpress_development_bigperl_banner.png" alt="wordpress_development_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Wordpress Development</h2>
-                      <p>WordPress is thought to be the most capable Tool for improvement of sites and online journals, which has begun its prevalence since 2003. What’s more, it has become the biggest self-facilitated blogging instrument on the planet, utilized on a large number of locales and saw by a huge number of individuals consistently. WordPress has been utilized limitlessly as a substance administration framework.</p>
-                      <p>Bigperl is one of the innovative WordPress site outline organization in Bangalore by offering mind blowing WordPress web plans and topics by encasing all the most recent web gages and movements in our web structure work that ascents up out of the social event.</p>
-                      <p>We give complete site or topic improvement in WordPress. We guarantee all the WordPress topics are versatile perfect and responsive. Our WordPress Web outlining organization Bangalore conveys quality, better than average and utilitarian sites, as well as backings in the establishment and setup, backing and support, custom module improvement, blog advancement and a great deal more. Our get-together of magnificent wordpress site designers in Bangalore first studies your business and after that proposes a few styles to look over their idea presentation report. We take after the best strategy in WordPress coding, and never hack the center records as some different organizations do. This guarantees you can undoubtedly redesign WordPress and strengthen security of your website.</p>
+                      <p class="text-justified">WordPress is thought to be the most capable Tool for improvement of sites and online journals, which has begun its prevalence since 2003. What’s more, it has become the biggest self-facilitated blogging instrument on the planet, utilized on a large number of locales and saw by a huge number of individuals consistently. WordPress has been utilized limitlessly as a substance administration framework.</p>
+                      <p class="text-justified">Bigperl is one of the innovative WordPress site outline organization in Bangalore by offering mind blowing WordPress web plans and topics by encasing all the most recent web gages and movements in our web structure work that ascents up out of the social event.</p>
+                      <p class="text-justified">We give complete site or topic improvement in WordPress. We guarantee all the WordPress topics are versatile perfect and responsive. Our WordPress Web outlining organization Bangalore conveys quality, better than average and utilitarian sites, as well as backings in the establishment and setup, backing and support, custom module improvement, blog advancement and a great deal more. Our get-together of magnificent wordpress site designers in Bangalore first studies your business and after that proposes a few styles to look over their idea presentation report. We take after the best strategy in WordPress coding, and never hack the center records as some different organizations do. This guarantees you can undoubtedly redesign WordPress and strengthen security of your website.</p>
                       <ul>
                         <h3><b>Services Offered:</b></h3>
                         <li>WordPress Blog Development</li>
@@ -44,8 +44,6 @@
                       <img src="assets/img/services/wordpress_development_bigperl.png" class="img-responsive " alt="Image">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

@@ -18,12 +18,12 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/laravel_development_bigperl_banner.png" alt="laravel_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/laravel_development_bigperl_banner.png" alt="laravel_development_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Laravel Development</h2>
-                      <p>With quickly changing web development methods, we need to stay updated and keep pace with the market. </p>
+                      <p class="text-justified">With quickly changing web development methods, we need to stay updated and keep pace with the market. </p>
                       <p>Laravel is a clean and classy framework of PHP which offers you the best apps developed with simple but expressive syntax. Laravel framework eases the web application development. Laravel helps in developing high end applications with out of the box features and powerful websites.</p>
                       <p>With Laravel you have the freedom to reap maximum benefits and get the best in class solutions. Laravel has the specialty of keeping all the major SQL codes in a separate model file. It comes with built-in tools for security which makes your website development more future proofed and reliable. Laravel has a modular packaging system which helps in saving time and focus on other priorities.</p>
                       <ul>
@@ -41,8 +41,6 @@
                       <img src="assets/img/services/laravel_development_bigperl.png" class="img-responsive " alt="laravel_development_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

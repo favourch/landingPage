@@ -18,12 +18,12 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/python_development_bigperl_banner.png" alt="python_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/python_development_bigperl_banner.png" alt="python_development_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Python Development</h2>
-                      <p>Bigperl Solutions Pvt Ltd has a rich experience in developing dynamic websites, custom web applications and Desktop Applications in Python and Django. We have been in business of custom software development for 6 years and we are a specialist in Small-Team Software Development by following Agile Methods.</p>
+                      <p class="text-justified">Bigperl Solutions Pvt Ltd has a rich experience in developing dynamic websites, custom web applications and Desktop Applications in Python and Django. We have been in business of custom software development for 6 years and we are a specialist in Small-Team Software Development by following Agile Methods.</p>
                       <p><b>Some of the services offered by Bigperl Solutions Pvt Ltd are :</b></p>
                       <ul>
                         <li>Python UI Design and Development using Frameworks PyGTK, PyQt, wxPython</li>
@@ -41,8 +41,6 @@
                       <img src="assets/img/services/python_development_bigperl.png" class="img-responsive " alt="python_development_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

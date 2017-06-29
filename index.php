@@ -31,7 +31,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px;margin-top: 120px;white-space: nowrap;">Mobile App & Web<br> Development
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.6);border-radius: 5px;padding:5px;margin-top: 120px;white-space: nowrap;">Mobile Application<br> Development
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -49,7 +49,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 6; color: #fff; background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px;margin-top: 120px; white-space: nowrap;">IOS | ANDROID | WINDOWS
+                    style="z-index: 6; color: #fff; background-color: rgba(0,0,0,0.6);border-radius: 5px;padding:5px;margin-top: 120px; white-space: nowrap;">iOS | Android | Windows | Wearable Devices | Internet Of Things
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -69,7 +69,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 7;background-color: rgba(0,0,0,0.3); border-radius: 5px;padding:5px; white-space: nowrap;margin-top: 60px;">
+                    style="z-index: 7;background-color: rgba(0,0,0,0.6); border-radius: 5px;padding:5px; white-space: nowrap;margin-top: 60px;">
                     <h3 style="color: #fff;"><b>Software Development and onsite consulting</b></h3>
                 </div>
 
@@ -167,7 +167,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px;margin-top: 120px; white-space: nowrap;">Responsive web <br> development
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.6);border-radius: 5px;padding:5px;margin-top: 120px; white-space: nowrap;">Responsive web <br> development
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -185,7 +185,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.3);margin-top: 120px;">Parallax | E-Commerce | Web 2.0
+                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.6);margin-top: 120px;">Parallax | E-Commerce | Web 2.0
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -249,7 +249,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.3);border-radius: 5px;padding:5px; white-space: nowrap;margin-top: 120px;">Responsive web <br> development
+                    style="z-index: 5; color: #fff;background-color: rgba(0,0,0,0.6);border-radius: 5px;padding:5px; white-space: nowrap;margin-top: 120px;">Responsive web <br> development
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -267,7 +267,7 @@
                     data-splitin="none" 
                     data-splitout="none" 
                     data-responsive_offset="on"
-                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.3);margin-top: 120px;">Parallax | E-Commerce | Web 2.0
+                    style="z-index: 6; color: #fff; white-space: nowrap;border-radius: 5px;padding:5px;background-color: rgba(0,0,0,0.6);margin-top: 120px;">Parallax | E-Commerce | Web 2.0
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -324,8 +324,8 @@
                                 <img class="img-responsive" src="assets/img/seo/service_1_bigperl.jpg" alt="service_1_bigperl">
                             </div>
                             <div class="desc">
-                                <h2>IOS App Development</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <h2>IOS App<br>Development</h2>
+                                <p>iPhone App Development<br>iPad Apps Development<br>Wearable Apps<br>tvOS Apps</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="ios-application-development.php">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                             </div>
@@ -340,7 +340,7 @@
                             </div>
                             <div class="desc">
                                 <h2>Android App Development</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <p>Android Mobile Apps<br>Android Tab Apps<br>Android Game Development<br>Wearable App development</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="android-application-development.php">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                             </div>
@@ -355,7 +355,7 @@
                             </div>
                             <div class="desc">
                                 <h2>Hybrid App Development</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <p>PhoneGap App Development<br>IONIC Apps Development<br>Mobile Angular UI<br>Cocoon Framework</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="hybrid-mobile-application-development.php">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                             </div>
@@ -370,7 +370,7 @@
                             </div>
                             <div class="desc">
                                 <h2>Xamarin App Development</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets</p>
+                                <p>Xamarin App Development<br>Xamarin Integration Services<br>Xamarin Maintenance<br>Support Services</p>
                                 <div class="bg-overlay"></div>
                                 <p><a class="learn-more" href="#">Learn More <i class="fa fa-long-arrow-right"></i></a></p>
                             </div>
@@ -384,13 +384,13 @@
             <div class="container">
               <div class="row">
                 <div class="col-md-7 light-grey-text padding-top-30">
-                	<h2 class="font-40 mb-30 white-text">We Offer a Full Range of Digital Marketing Services!</h2>
-                	<p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. </p>
+                	<h2 class="font-40 mb-30 white-text">What is unique in us</h2>
+                	<p>Unique payment structure , Pay As You Go, Subscription (SaaS) & T&M. Best in class personalised, post - production support for Entrepreneurs & Enterprise Customers.</p>
 
                 	<ul class="list-icon mb-30">
-                		<li><i class="material-icons">done</i> We deliver Top Rankings.</li>
-                		<li><i class="material-icons">done</i> High customer retention rate.</li>
-                		<li><i class="material-icons">done</i> We always return e-mails and calls within one business day.</li>
+                		<li><i class="material-icons">done</i>One stop solution for complete digital need.</li>
+                		<li><i class="material-icons">done</i>Dedicated R&D team to explore on new technologies.</li>
+                		<li><i class="material-icons">done</i>30 + Unique technology supported.</li><br>
                         <li>
                                 <button type="button" class="waves-effect waves-light btn blue" data-toggle="modal" data-target="#myModal" >
                                   Get A Quote
@@ -460,7 +460,7 @@
             <div class="container">
               <div class="text-center mb-80 padding-top-20">
                   <h2 class="section-title text-uppercase">Why Choose Us</h2>
-                  <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                  <p class="section-sub">BigPerl Solutions is one of the fastest growing Mobile Application Development company. we are specialised in providing best in class technology and support solution to cater growing business needs. Below is our solutions offerings.</p>
               </div>
 
 
@@ -471,8 +471,8 @@
                                 <i class="material-icons colored brand-icon">library_books</i>
                             </div>
                             <div class="desc">
-                                <h2>Content</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>Mobile App Development</h2>
+                                <p>Building right app stately is key. Our consultants work with you to create successful statigy.</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -483,8 +483,8 @@
                                 <i class="material-icons colored brand-icon">equalizer</i>
                             </div>
                             <div class="desc">
-                                <h2>Strategy</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>Android App Development</h2>
+                                <p>We have team of 40+ Native Android developers along with R&D team which works on upcoming technologies like kotlin</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -495,8 +495,8 @@
                                 <i class="material-icons colored brand-icon">share</i>
                             </div>
                             <div class="desc">
-                                <h2>Social Media</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>iOS App Development</h2>
+                                <p>We have 60+ iOS developers working on Xcode, Swift 3 & Objective-C. We have dedicated R&D team, which experiments new features and releases.</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -507,8 +507,9 @@
                                 <i class="material-icons colored brand-icon">build</i>
                             </div>
                             <div class="desc">
-                                <h2>Optimize</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>Windows App Development</h2>
+                                <p>We have Dedicated team of xamarin app developers which works on windows native app development.
+</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -519,8 +520,9 @@
                                 <i class="material-icons colored brand-icon">youtube_searched_for</i>
                             </div>
                             <div class="desc">
-                                <h2>Keyword Research</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>Hybrid App Development</h2>
+                                <p>Hybrid Mobile Apps are picking up well in app stores. We have dedicated team of 25+ developers work on PhoneGap, Ionic & AngularJs frameworks.
+</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -531,8 +533,8 @@
                                 <i class="material-icons colored brand-icon">person</i>
                             </div>
                             <div class="desc">
-                                <h2>Trafic</h2>
-                                <p>Porttitor communicate pandemic data rather than enabled niche markets neque pulvinar vitae.</p>
+                                <h2>E-Commerse Web Development</h2>
+                                <p>Building E-commerse web is always a key, Our team works on most of leading technologies e.g. : AngularJs, NodeJS, Php , Python, ROR development stack.</p>
                             </div>
                         </div><!-- /.featured-item -->
                     </div><!-- /.col-md-4 -->
@@ -543,7 +545,7 @@
         <section class="padding-top-20 padding-bottom-10 brand-bg">
           <div class="container">
             <div class="text-center">
-                <button class="waves-effect waves-light btn-large blue" id="btnwidth" data-toggle="modal" data-target="#myModals"><img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-right: 13px;">Get free consultation from our Experts</button>
+                <button class="waves-effect waves-light btn-large blue" id="btnwidth" data-toggle="modal" data-target="#myModals"><img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-right: 13px;">Get free consultation from our Experts <img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-left: 10px;"></button>
                 <div class="modal fade" id="myModals" tabindex="-1" role="dialog" style="width: 100%;min-height: 100%;background-color: transparent;">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -771,8 +773,8 @@
             <div class="container">
 
               <div class="text-center mb-80">
-                  <h2 class="section-title text-uppercase">Awesome clients</h2>
-                  <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam. Nulla ac nisi rhoncus,</p>
+                  <h2 class="section-title text-uppercase">Our Successful Clients</h2>
+                  <p class="section-sub">Our client trust us to help them in building high performing software solutions. We have awesome list of global clients working with us for 5+ years.</p>
               </div>
               <div class="clients-grid gutter">
                 <div class="row">
@@ -780,63 +782,91 @@
                         <div class="item active">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/del_bigperl.png" alt="del_bigperl">
+                                    <img src="assets/img/client-logo/akg_bigperl.png" alt="akg_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/envato_bigperl.png" alt="envato_bigperl">
+                                    <img src="assets/img/client-logo/ang_bigperl.png" alt="ang_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/fb_bigperl.png" alt="fb_bigperl">
+                                    <img src="assets/img/client-logo/archi_bigperl.png" alt="archi_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/google_bigperl.png" alt="google_bigperl">
+                                    <img src="assets/img/client-logo/arfma_bigperl.png" alt="arfma_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/hp_bigperl.png" alt="hp_bigperl">
+                                    <img src="assets/img/client-logo/barma_bigperl.jpg" alt="barma_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/intel_bigperl.png" alt="intel_bigperl">
+                                    <img src="assets/img/client-logo/ccat_bigperl.png" alt="ccat_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/kp_bigperl.png" alt="kp_bigperl">
+                                    <img src="assets/img/client-logo/kvrc_bigperl.png" alt="kvrc_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/studio_bigperl.png" alt="studio_bigperl">
+                                    <img src="assets/img/client-logo/fashion_bigperl.png" alt="fashion_bigperl">
                                 </a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="border-box">
                                 <a href="#">
-                                    <img src="assets/img/client-logo/sw_bigperl.png" alt="sw_bigperl">
+                                    <img src="assets/img/client-logo/gp_bigperl.png" alt="gp_bigperl">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="border-box">
+                                <a href="#">
+                                    <img src="assets/img/client-logo/he_bigperl.png" alt="he_bigperl">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="border-box">
+                                <a href="#">
+                                    <img src="assets/img/client-logo/jms_bigperl.png" alt="jms_bigperl">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="border-box">
+                                <a href="#">
+                                    <img src="assets/img/client-logo/kuch_bigperl.png" alt="kuch_bigperl">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="border-box">
+                                <a href="#">
+                                    <img src="assets/img/client-logo/kvrc_bigperl.png" alt="kvrc_bigperl">
                                 </a>
                             </div>
                         </div>

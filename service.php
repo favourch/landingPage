@@ -23,17 +23,15 @@
                   <div class="col-md-7">
                       <h2 class="text-bold mb-30">Creative Artist</h2>
                       
-                      <p>Quickly procrastinate functionalized human capital with equity invested experiences. Rapidiously provide access to extensible solutions after pandemic supply chains. Credibly supply resource sucking channels before areas Dynamically harness cooperative partnerships rather than just in time total linkage. Dramatically syndicate plug and play <a href="#">professional with focused</a>. Credibly supply resource sucking channels before areas.</p>
+                      <p class="text-justified">Quickly procrastinate functionalized human capital with equity invested experiences. Rapidiously provide access to extensible solutions after pandemic supply chains. Credibly supply resource sucking channels before areas Dynamically harness cooperative partnerships rather than just in time total linkage. Dramatically syndicate plug and play <a href="#">professional with focused</a>. Credibly supply resource sucking channels before areas.</p>
 
-                      <p>Lorem ipsum dolor sit amet cr adipiscing elit. In maximus ligula semper <a href="#">metus pellentesque</a> mattis.</p>
+                      <p class="text-justified">Lorem ipsum dolor sit amet cr adipiscing elit. In maximus ligula semper <a href="#">metus pellentesque</a> mattis.</p>
                   </div>
 
                   <div class="col-md-5">
                       <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

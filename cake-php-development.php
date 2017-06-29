@@ -23,9 +23,9 @@
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">CakePHP Development</h2>
-                      <p>Simple to learn, code and read, CakePHP frameworks from Multidots are compatible with HTML Forms, Java Scripts, AJAX and other development tools.</p>
-                      <p>Bigperl Solutions Pvt Ltd is a renowned CakePHP development company offering an all-inclusive skill set in the CakePHP Customization and CakePHP web development. With our diligent CakePHP Developers and fully-furnished development infrastructure we have maintained the best of CakePHP development standards and comprehensively handled big client projects.</p>
-                      <p>Our business-driven CakePHP development approach and our end-to-end CakePHP solutions have served different businesses with most compliant source of platform to put them across with effective interface and leveraging communication potential. We have transformed the way people perceive a CakePHP solution through our fine array of service in CakePHP development.</p>
+                      <p class="text-justified">Simple to learn, code and read, CakePHP frameworks from Multidots are compatible with HTML Forms, Java Scripts, AJAX and other development tools.</p>
+                      <p class="text-justified">Bigperl Solutions Pvt Ltd is a renowned CakePHP development company offering an all-inclusive skill set in the CakePHP Customization and CakePHP web development. With our diligent CakePHP Developers and fully-furnished development infrastructure we have maintained the best of CakePHP development standards and comprehensively handled big client projects.</p>
+                      <p class="text-justified">Our business-driven CakePHP development approach and our end-to-end CakePHP solutions have served different businesses with most compliant source of platform to put them across with effective interface and leveraging communication potential. We have transformed the way people perceive a CakePHP solution through our fine array of service in CakePHP development.</p>
                       <ul>
                         <li><b>Services offered:</b></li>
                         <li>Bespoke Web Development processes and tools for secure and high quality web applications.</li>

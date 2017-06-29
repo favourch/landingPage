@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/products/banner/gps_vehicle_tracking_bipgerl.png" class="fullwidth" alt="gps_vehicle_tracking_bipgerl">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -27,11 +27,9 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/products/gps_vehicle_bigperl.png" class="img-responsive " alt="gps_vehicle_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

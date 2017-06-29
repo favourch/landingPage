@@ -18,12 +18,12 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/xcart_development_bigperl_banner.png" alt="xcart_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/xcart_development_bigperl_banner.png" alt="xcart_development_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">X-Cart Development</h2>
-                      <p>As professional web designers and developers we keep researching a lot on latest technologies and platforms available and Magento is also a result of this research. We at Bigperl found Magento Ecommerce development to be successful and powerful platform because of the following reasons:</p>
+                      <p class="text-justified">As professional web designers and developers we keep researching a lot on latest technologies and platforms available and Magento is also a result of this research. We at Bigperl found Magento Ecommerce development to be successful and powerful platform because of the following reasons:</p>
                       <ul>
                         <li>Effortlessly customizable to meet the requirements.</li>
                         <li>It supports number of gateways for payment.</li>
@@ -33,7 +33,7 @@
                         <li>Changes to previous design and addition of new features are very easy with the help of the modules that can be added or removed.</li>
                       </ul>
                       <p>Some reasons why you should power your e-commerce with X-Cart:</p>
-                      <p>It is highly user friendly and flexible Well organized orders, customers, products management Enables easy inventory management Provides multi-language support Exhaustive report management system What services we offer under the X-cart umbrella?</p>
+                      <p class="text-justified">It is highly user friendly and flexible Well organized orders, customers, products management Enables easy inventory management Provides multi-language support Exhaustive report management system What services we offer under the X-cart umbrella?</p>
                       <ul>
                         <li>X-Cart website development</li>
                         <li>X-Cart template installation</li>
@@ -49,8 +49,6 @@
                       <img src="assets/img/services/xcart_development_bigperl.png" class="img-responsive " alt="xcart_development_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

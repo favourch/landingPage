@@ -18,7 +18,8 @@
         </section>
         <!--page title end-->
 
-		<?php include 'header1.php' ?>
+		    <img src="assets/img/products/banner/field_force_automation_bigperl.png" class="fullwidth" alt="field_force_automation_bigperl">
+
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
@@ -27,11 +28,9 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/ipad-2.png" class="img-responsive " alt="Image">
+                      <img src="assets/img/products/ffa_bigperl.png" class="img-responsive " alt="ffa_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

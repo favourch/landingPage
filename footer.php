@@ -296,6 +296,57 @@
           });
           
         });
+        $('#contactForm7').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contactnew.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
+
+        $('#contactForm8').on('submit',function(e){
+          e.preventDefault();
+          var dataresult = $(this).serialize();
+          var $this = $(this);
+          $.ajax({
+            method : 'post',
+            url:'contact.php?'+dataresult,
+            data: {name:$('#name').val()},
+            datatype:'json',
+            success:function(data){
+            
+            if( data.response=='error' ){
+                $this.before( '<div class="alert alert-danger">'+data.message+'</div>' );
+            }
+
+            if( data.response=='success' ){
+
+              $this.before( '<div class="alert alert-success">'+data.message+'</div>' );
+              $this.find('input, textarea').val('');
+            }
+
+            }
+          });
+          
+        });
     </script>
         <script type="text/javascript">
             //  owlcarousel2 slider testmonials
@@ -355,10 +406,32 @@
                 },
                 loop  : true,
                 margin : 30,
-                nav    : false,
+                nav    : true,
+                navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
                 smartSpeed :500,
                 autoplay: true,
                 autoplayTimeout: 2000
+            });
+
+            $('#customers-carousel3').owlCarousel({
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 3
+                    },
+                    1000: {
+                        items: 4
+                    }
+                },
+                loop  : true,
+                margin : 30,
+                nav    : true,
+                smartSpeed :2000,
+                navText : ["<i class='fa fa-chevron-left position'></i>","<i class='fa fa-chevron-right position1'></i>"],
+                autoplay: true,
+                autoplayTimeout: 3000
             });
 
 

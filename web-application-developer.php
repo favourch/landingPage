@@ -18,14 +18,14 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/Web_ADF_development_bigperl_banner.png" alt="Web_ADF_development_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/web_application_developer_bigperl_banner.png" alt="web_application_developer_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">
                       <h2 class="text-bold mb-10">Web Application Developer</h2>
-                      <p>Web Application Development is the creation and maintenance of application software that resides on servers and is delivered to the end user device over the Internet used on the World Wide Web.</p>
-                      <p>The Web Application development process includes Web design, Web content development, client-side/server-side scripting and network security configuration, among other tasks. BigPerl team of Web Application Development developers have good experience and knowledge to understand the importance of unified marketing strategies and designing effective web application that live on remote servers and are delivered to the user’s device over the Internet.</p>
-                      <p>We develop websites for hosting via internet includes web design, client- server side scripting and network configuration security. Our programmers can design optimized, customized and user friendly applications.</p>
+                      <p class="text-justified">Web Application Development is the creation and maintenance of application software that resides on servers and is delivered to the end user device over the Internet used on the World Wide Web.</p>
+                      <p class="text-justified">The Web Application development process includes Web design, Web content development, client-side/server-side scripting and network security configuration, among other tasks. BigPerl team of Web Application Development developers have good experience and knowledge to understand the importance of unified marketing strategies and designing effective web application that live on remote servers and are delivered to the user’s device over the Internet.</p>
+                      <p class="text-justified">We develop websites for hosting via internet includes web design, client- server side scripting and network configuration security. Our programmers can design optimized, customized and user friendly applications.</p>
                       <ul>
                         <li><b>Web Application Technology:</b></li>
                         <li>js</li>
@@ -46,8 +46,6 @@
                       <img src="assets/img/services/Web_application_developer_bigperl.png" class="img-responsive " alt="Web_application_developer_bigperl">
                   </div>
               </div>
-            </div><!-- /.container -->
-        </section>
 
         
 

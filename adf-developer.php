@@ -18,7 +18,7 @@
         </section>
         <!--page title end-->
 
-		    <img src="assets/img/banners/adf_and_webcenter_developer_bigperl_banner.png" alt="adf_and_webcenter_developer_bigperl_banner" height="200" width="100%">
+		    <img src="assets/img/banners/adf_and_webcenter_developer_bigperl_banner.png" alt="adf_and_webcenter_developer_bigperl_banner" class="fullwidth">
 
               <div class="container padding-top-20">
                   <div class="col-md-7">

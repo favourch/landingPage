@@ -22,17 +22,20 @@
           
           <div class="container">
 
-            <div class="text-center mb-80">
+            <div class="text-center mb-15">
                 <h2 class="section-title text-uppercase">Get in Touch</h2>
-                <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                <p class="section-sub">We need to used complete area available in red box. There is lot of white space available, which can be used. Let me know for any discussion.</p>
             </div>
 
             <div class="row">
-                <div class="col-md-8">
-                		<h3><b>Contact Us</b></h3>
+                <div class="col-md-6">
+                  <div class="panel panel-success">
+                    <div class="panel-body">
+                      
+                    <h3><b>Contact Us</b></h3>
                         <div class="row">
                           <div class="col-md-12">
-                          <form method="post" id="contactForm3" name="contact-form">
+                          <form method="post" id="contactForm7" name="contact-form">
                             <div class="row">
                               <div class="col-md-6">
                                 <div class="input-field">
@@ -49,10 +52,16 @@
                               </div><!-- /.col-md-6 -->
                             </div><!-- /.row -->
                             <div class="row">
-                              <div class="col-md-12">
+                              <div class="col-md-6">
                                 <div class="input-field">
-                                  <input id="subject" type="text" name="subject" class="validate" >
-                                  <label for="subject">Subject</label>
+                                  <input id="phone" type="text" name="phone" class="validate" >
+                                  <label for="phone">Phone Number</label>
+                                </div>
+                              </div><!-- /.col-md-6 -->
+                              <div class="col-md-6">
+                                <div class="input-field">
+                                  <input id="country" type="text" name="country" class="validate" >
+                                  <label for="country">Country</label>
                                 </div>
                               </div><!-- /.col-md-6 -->
                             </div>
@@ -64,35 +73,39 @@
                           </form>
                           </div>
                         </div>
+                    </div>
+                  </div>
                 </div><!-- /.col-md-8 -->
 
-                <div class="col-md-4 contact-info">
-
-                <!-- map-section -->
-                <div id="myMap" class="height-350"></div>
-                <!-- /.map-section -->
-
-                    <address>
-                      <i class="material-icons brand-color">&#xE55F;</i>
-                      <div class="address">
-                        <p>1355 Market Street, Suite 900<br>
-                        San Francisco, CA 94103</p>
-                      </div>
-
-                      <i class="material-icons brand-color">&#xE61C;</i>
-                      <div class="phone">
-                        <p>Phone: (123) 456-7890</p>
-                      </div>
-
-                      <i class="material-icons brand-color">&#xE0E1;</i>
-                      <div class="mail">
-                        <p><a href="mailto:#">first.last@example.com</a><br>
-                        <a href="#">www.yourdomain.com</a></p>
-                      </div>
-                    </address>
-
+                <div class="col-md-6 contact-info">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15554.905497661854!2d77.48561!3d12.9253!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe292ad0c3eb22207!2sBigPerl+Solutions+Private+Limited!5e0!3m2!1sen!2sin!4v1498568041894" width="500" height="330" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
+            </div><!-- /.row --><br>
+              <div class="panel panel-success col-md-8">
+                <div class="panel-body">
+                  <h2><b>Address :</b></h2><br>
+                  <div class="row">
+                  <div class="col-md-6 borderright">
+                    <h3><b>*India :</b></h3>
+                    <p><b>#1444, Upnagara Bangalore, Old Outer Ring Rd, <br>Kengeri Satellite Town, Karnataka 560060.</b><br><b>Email: </b><a href="">info@bigperl.com</a></p>
+                  </div>
+                  <div class="col-md-6">
+                      <h3><b>*United States :</b></h3>
+                    <p><b>9350 Wilshire Blvd, Suite 203, <br>Beverly Hills, CA 90212</b><br><b>Email: </b><a href="">info@bigperl.com</a></p>
+                  </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 borderright">
+                  <h3><b>*India :</b></h3>
+                  <p><b>4th Floor , P.No 5 Niram Nagar AB, <br>Ajmer Road,(Near Shiv Gyan Heights and <br>Roma Nursing Home), Jaipur , <br>Rajasthan , Pin : 302019</b><br><b>Email: </b><a href="">info@bigperl.com</a></p>
+              </div>
+              <div class="col-md-6">
+                  <h3><b>*Canada</b></h3>
+                  <p><b>25th bay street toronto , <br> Ontario , canada M5J 2N8</b><br><b>Email: </b><a href="">info@bigperl.com</a></p>
+              </div>
+              </div>
+              </div>
+              </div>
           </div>
         </section>
         <!-- contact-form-section End -->
