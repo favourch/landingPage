@@ -226,10 +226,10 @@
 
                                   <div class="team-intro">
                                       <h3>Elita Chow <small>Product Designer</small></h3>
-                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>     
+                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>
                                   </div>
 
-                                
+
                                   <div class="team-skill">
                                       <div class="row">
 
@@ -321,10 +321,10 @@
 
                                   <div class="team-intro">
                                       <h3>Jhon Doe <small>Product Developer</small></h3>
-                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>     
+                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>
                                   </div>
 
-                                
+
                                   <div class="team-skill">
                                       <div class="row">
 
@@ -416,10 +416,10 @@
 
                                   <div class="team-intro">
                                       <h3>Tomas Udoya <small>Product Designer</small></h3>
-                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>     
+                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>
                                   </div>
 
-                                
+
                                   <div class="team-skill">
                                       <div class="row">
 
@@ -511,10 +511,10 @@
 
                                   <div class="team-intro">
                                       <h3>Jonathon Bin <small>Product Developer</small></h3>
-                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>     
+                                      <p>A id a torquent tortor at lacus et donec platea eu scelerisque maecenas ac eros a adipiscing id lobortis cum lacus erat. Parturient eleifend adipiscing ultrices a cursus est feugiat porta a at condimentum fames adipiscing odio in nisi venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas ligula eu penatibus at suscipit mus scelerisque.</p>
                                   </div>
 
-                                
+
                                   <div class="team-skill">
                                       <div class="row">
 
@@ -588,7 +588,7 @@
                     </div> <!--tab-content end -->
                   </div>
 
-              </div> <!--tab-pan end --> 
+              </div> <!--tab-pan end -->
 
             </div><!-- /.container -->
         </section>
@@ -612,7 +612,7 @@
 
                             <div class="testimonial-meta brand-color">
                                 Jhon Doe,
-                                <span>User Interface Designer</span> 
+                                <span>User Interface Designer</span>
                             </div>
                         </div>
                       </li>
@@ -625,7 +625,7 @@
 
                             <div class="testimonial-meta brand-color">
                                 Tomas Hody,
-                                <span>User Interface Designer</span> 
+                                <span>User Interface Designer</span>
                             </div>
                         </div>
                       </li>
@@ -638,7 +638,7 @@
 
                             <div class="testimonial-meta brand-color">
                                 Elita Chow,
-                                <span>User Interface Designer</span> 
+                                <span>User Interface Designer</span>
                             </div>
                         </div>
                       </li>
@@ -651,7 +651,7 @@
 
                             <div class="testimonial-meta brand-color">
                                 Alex Kumar,
-                                <span>User Interface Designer</span> 
+                                <span>User Interface Designer</span>
                             </div>
                         </div>
                       </li>

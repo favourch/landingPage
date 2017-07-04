@@ -5,7 +5,7 @@
             <div class="container padding-top-40">
                 <div class="row">
                     <div class="col-md-12">
-                        <h6 style="float: right;margin-bottom: -5px;">Portfolio</h6>
+                        <h6 class="pagetitles">Portfolio</h6>
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">portfolio</a></li>

@@ -1,10 +1,9 @@
-/* === Mail Chimp subscription form settings === */
+
 $( document ).ready(function() {
 
     $('.mailchimp').ajaxChimp({
         callback: mailchimpCallback,
-        //replace bellow url with your own mailchimp form post url inside the url: "---".
-        url: "http://trendytheme.us9.list-manage.com/subscribe/post?u=85ba3666ffb519396fbe64dc5&amp;id=c335e5ec53" 
+        url: "" 
     }); 
     function mailchimpCallback(resp) {
          if (resp.result === 'success') {

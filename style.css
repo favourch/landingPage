@@ -1,14 +1,3 @@
-/********************************************************
-    Template Name: materialize
-    Created By: TrendyTheme
-    Envato Profile: https://themeforest.net/user/trendytheme
-    Website: http://trendytheme.net
-    Version: 1.5
-    Support: http://trendytheme.net/support
-*********************************************************/
-
-
-  
 /*
 ====================================
 [ CSS TABLE CONTENT ]
@@ -51,8 +40,40 @@
   box-sizing: border-box;
 }
 
+.pagetitles{
+    float: right;
+    margin-bottom: -5px;
+    font-size: 13px;
+}
+
+.colorwhite{
+    color: white;
+    font-size: 34px;
+}
+
+.intended{
+    text-indent: -24px;
+}
+
+.extendleft{
+    margin-left: 45px;
+}
+
+.fontcolors{
+    color: black;
+    font-size: 25px !important;
+    margin-left: -6px;
+}
+
+.fontcolors1 {
+    color: black;
+    font-size: 23px !important;
+    left: 23.5%;
+    margin-top: 6px;
+    padding: 0px;
+}
+
 #myInput {
-  background-image: url('/css/searchicon.png');
   background-position: 10px 12px;
   background-repeat: no-repeat;
   width: 50%;
@@ -69,30 +90,42 @@
     padding: 0;
     margin: 0;
     width: 100%;
-    height: 500px;
+    height: 320px;
     line-height: 2em;
-    border: 1px solid #ccc;
-    overflow: scroll;
+}
+
+div ::-webkit-scrollbar { 
+    display: none; 
 }
 
 #myUL li a {
-  border: 1px solid #ddd;
-  margin-top: -1px; /* Prevent double borders */
-  background-color: #f6f6f6;
+  border-bottom: 1px solid #000;
+  margin-top: -1px;
   padding: 12px;
   text-decoration: none;
   font-size: 18px;
-  color: black;
-  display: block
+  color: #2263a3;
+  display: block;
+  -webkit-transition: all 0.3s ease;
+}
+
+#myUL li a:hover{
+    color: #227BC2;
+    font-size: 19px;
+    background: rgba(225,225,225,0.3);
 }
 
 #myUL li a.header {
-  background-color: #e2e2e2;
+  background-color: #F0F0F0;
   cursor: default;
 }
 
-#myUL li a:hover:not(.header) {
-  background-color: #eee;
+#myUL li:nth-child(odd) {
+    background: white;
+}
+
+#myUL li:nth-child(even) {
+    background: rgba(225,225,225,0.7);
 }
 
 /*careers page ends*/
@@ -113,7 +146,7 @@
 }
 
 .borderright{
-    border-right: 1px solid black;
+    border-right: 1px solid #D4D4D4;
 }
 
 .fullmap{
@@ -300,7 +333,7 @@ body{
     font-size: 14px;
     line-height: 29px;
     font-weight: 500;
-    color: #999;
+    color: black;
     background-color: #fff;
     overflow-x: hidden;
     -webkit-text-size-adjust: 100%;
@@ -384,7 +417,7 @@ p img {
 }
 
 p {
-    margin: 0 0 30px;
+    margin: 0px;
     line-height: 30px;
 }
 
@@ -667,6 +700,17 @@ thead {
     margin-left: 20px;
 }
 
+/*padding-left*/
+
+.padding-left-0{
+    padding-left: 0;
+}
+.padding-right-0{
+    padding-right: 0;
+}
+
+/*padding-right*/
+
 
 
 /*padding-top*/
@@ -713,7 +757,9 @@ thead {
 
 
 /*padding-bottom*/
-
+.padding-bottom-10 {
+    padding-bottom: 10px;
+}
 .padding-bottom-20 {
     padding-bottom: 20px;
 }
@@ -760,6 +806,11 @@ thead {
 .ptb-30 {
     padding: 20px 0;
 }
+.ptb-40 {
+    padding: 40px 0;
+}
+
+
 .ptb-50 {
     padding: 50px 0;
 }
@@ -913,9 +964,21 @@ thead {
 /*List Style*/
 .list-icon li{
     font-size: 17px;
-    line-height: 40px;
+    line-height: 30px;
 }
 .list-icon li .material-icons {
+    position: relative;
+    top: 5px;
+}
+.list-icon1 li{
+    font-size: 11px;
+    line-height: 30px;
+}
+.list-icon1 li i{
+    font-size: 15px;
+}
+
+.list-icon1 li .material-icons {
     position: relative;
     top: 5px;
 }
@@ -2565,6 +2628,11 @@ KEY FRAME
     z-index: 10000;
     margin-bottom: 2.5em;
 
+}
+
+.list-icon1 li {
+    font-size: 10px;
+    line-height: 30px;
 }
 
 }

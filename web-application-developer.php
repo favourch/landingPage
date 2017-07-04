@@ -6,7 +6,7 @@
             <div class="container padding-top-40">
                 <div class="row">
                     <div class="col-md-12">
-                        <h6 style="float: right;margin-bottom: -5px;">Services</h6>
+                        <h6 class="pagetitles">Services</h6>
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Services</a></li>
@@ -43,7 +43,7 @@
                   </div>
 
                   <div class="col-md-5">
-                      <img src="assets/img/services/Web_application_developer_bigperl.png" class="img-responsive " alt="Web_application_developer_bigperl">
+                      <img src="assets/img/services/web_application_developer_bigperl.png" class="img-responsive " alt="web_application_developer_bigperl">
                   </div>
               </div>
 

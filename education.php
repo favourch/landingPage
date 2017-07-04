@@ -6,7 +6,7 @@
             <div class="container padding-top-40">
                 <div class="row">
                     <div class="col-md-12">
-                        <h6 style="float: right;margin-bottom: -5px;">Industry</h6>
+                        <h6 class="pagetitles">Industry</h6>
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">industry</a></li>

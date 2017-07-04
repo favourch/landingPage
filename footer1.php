@@ -1,4 +1,4 @@
-        <section class="padding-top-20 padding-bottom-10 brand-bg">
+<section class="padding-top-20 padding-bottom-10 brand-bg">
           <div class="container">
             <div class="text-center">
                 <button class="waves-effect waves-light btn-large blue" id="btnwidth" data-toggle="modal" data-target="#myModals"><img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-right: 13px;">Get free consultation from our Experts <img src="assets/img/ico/trending_up_bigperl.png" alt="trending_up_bigperl" style="margin-left: 10px;"></button>
@@ -12,17 +12,18 @@
                                       <div class="modal-body">
                                             <div class="row">
                                             <div class="col-md-12">
-                                                <form method="post" id="contactForm5" name="contact-form">
+                                                <form method="post" id="contactForm" name="contact-form">
                                                   <div class="row">
                                                     <div class="col-md-6">
                                                       <div class="input-field">
+                                                        <i class="fa fa-user prefix fontcolors"></i>
                                                         <input type="text" name="name" class="validate" id="name">
                                                         <label for="name">Name</label>
                                                       </div>
                                                     </div><!-- /.col-md-6 -->
                                                     <div class="col-md-6">
                                                       <div class="input-field">
-                                                        <label class="sr-only" for="email">Email</label>
+                                                        <i class="fa fa-envelope prefix fontcolors"></i>
                                                         <input id="email" type="email" name="email" class="validate" >
                                                         <label for="email" data-error="wrong" data-success="right">Email</label>
                                                       </div>
@@ -32,18 +33,20 @@
                                                   <div class="row">
                                                     <div class="col-md-12">
                                                       <div class="input-field">
+                                                        <i class="fa fa-book prefix fontcolors"></i>
                                                         <input id="subject" type="tel" name="subject" class="validate" >
                                                         <label for="subject">Subject</label>
                                                       </div>
                                                     </div><!-- /.col-md-6 -->
                                                     </div>
                                                   <div class="input-field">
+                                                    <i class="fa fa-commenting-o prefix fontcolors"></i>
                                                     <textarea name="message" id="message" class="materialize-textarea" ></textarea>
                                                     <label for="message">Message</label>
                                                   </div>
                                                   <button type="submit" name="submit" class="btn-sm btnclass">Send Message</button>
                                                   </form>
-                                                  </div>
+                                            </div>
                                       </div>
                                     </div>
                                   </div>
@@ -55,8 +58,8 @@
     
     <section class="section-padding banner-10 bg-fixed parallax-bg overlay light-9" data-stellar-background-ratio="0.5">
             <div class="container">
-              <div class="text-center mb-80">
-                  <h2 class="section-title text-uppercase">Techonologies we use</h2>
+              <div class="text-center ptb-30">
+                  <h2 class="section-title text-uppercase">Technologies we use</h2>
                   <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
               </div>
 
@@ -144,7 +147,7 @@
         <section class="section-padding">
             <div id="customer-banner">
             <div class="section container">
-                <div class="text-center mb-80">
+                <div class="text-center ptb-40">
                     <h2 class="section-title text-uppercase">Mostly Used Technologies</h2>
                 </div>
                 <div class="row">
@@ -318,36 +321,40 @@
                     <div class="panel-body">
                         <div class="row">
                           <div class="col-md-12">
-                          <form method="post" id="contactForm3" name="contact-form">
-                            <div class="row">
-                              <div class="col-md-6">
-                                <div class="input-field">
-                                  <input type="text" name="name" class="validate" id="name">
-                                  <label for="name">Name</label>
-                                </div>
-                              </div><!-- /.col-md-6 -->
-                              <div class="col-md-6">
-                                <div class="input-field">
-                                  <label class="sr-only" for="email">Email</label>
-                                  <input id="email" type="email" name="email" class="validate" >
-                                  <label for="email" data-error="wrong" data-success="right">Email</label>
-                                </div>
-                              </div><!-- /.col-md-6 -->
-                            </div><!-- /.row -->
-                            <div class="row">
-                              <div class="col-md-12">
-                                <div class="input-field">
-                                  <input id="subject" type="text" name="subject" class="validate" >
-                                  <label for="subject">Subject</label>
-                                </div>
-                              </div><!-- /.col-md-6 -->
-                            </div>
-                            <div class="input-field">
-                              <textarea name="message" id="message" class="materialize-textarea" ></textarea>
-                              <label for="message">Message</label>
-                            </div>
-                            <button type="submit" name="submit" class="btn-sm btnclass">Send Message</button>
-                          </form>
+                          <form method="post" id="contactForm" name="contact-form">
+                                                  <div class="row">
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <i class="fa fa-user prefix fontcolors"></i>
+                                                        <input type="text" name="name" class="validate" id="name">
+                                                        <label for="name">Name</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    <div class="col-md-6">
+                                                      <div class="input-field">
+                                                        <i class="fa fa-envelope prefix fontcolors"></i>
+                                                        <input id="email" type="email" name="email" class="validate" >
+                                                        <label for="email" data-error="wrong" data-success="right">Email</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                  </div><!-- /.row -->
+
+                                                  <div class="row">
+                                                    <div class="col-md-12">
+                                                      <div class="input-field">
+                                                        <i class="fa fa-book prefix fontcolors"></i>
+                                                        <input id="subject" type="tel" name="subject" class="validate" >
+                                                        <label for="subject">Subject</label>
+                                                      </div>
+                                                    </div><!-- /.col-md-6 -->
+                                                    </div>
+                                                  <div class="input-field">
+                                                    <i class="fa fa-commenting-o prefix fontcolors"></i>
+                                                    <textarea name="message" id="message" class="materialize-textarea" ></textarea>
+                                                    <label for="message">Message</label>
+                                                  </div>
+                                                  <button type="submit" name="submit" class="btn-sm btnclass">Send Message</button>
+                                                  </form>
                           </div>
                         </div>
                     </div>                   

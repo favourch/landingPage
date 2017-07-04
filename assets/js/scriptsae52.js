@@ -1,8 +1,4 @@
-/*
-Template Name: materialize
-Author: TrendyTheme
-Version: 1.5
-*/
+
 
 ;(function () {
 

@@ -1,1 +1,0 @@
-<h1 style="background-color: green;color: white;">RED</h1>
